@@ -4,75 +4,75 @@ import numpy as np
 import seaborn as sns
 import os
 
-df = pd.read_csv("data/merged_05.csv")
+df = pd.read_csv("data/data_20250330.csv")
 
-# # - SPECIES DISTRIBUTION ANALYSIS - #
+# - SPECIES DISTRIBUTION ANALYSIS - #
 
-# species_counts1 = df["Common name"].value_counts().head(30)
+species_counts1 = df["Common name"].value_counts().head(30)
 
-# # Create plot for 0.5 Confidence Level
-# plt.figure(figsize=(12, 6))
-# species_counts1.plot(kind="bar", color="royalblue", edgecolor="black")
-# plt.xlabel("Species")
-# plt.ylabel("Number of Unique Detections")
-# plt.title("Top 30 Bird Species Distribution in 0.5 Confidence Dataset")
-# plt.xticks(rotation=45, ha="right")
-# plt.subplots_adjust(bottom=0.45)
-# plt.savefig("vanessa_plots/0.5_species_distribution.png", bbox_inches="tight", dpi=300)
-# plt.show()
-
-
-# # # - HUME'S LEAF WARBLER ACTIVITY OVER TIME - #
-
-# # Filter only Hume's Leaf Warbler
-# df_hume = df[df["Common name"] == "phylloscopus humei"]
-
-# # Count occurrences of detections per hour and sort
-# time_counts = df_hume["Time"].value_counts().sort_index()
-
-# # Create the plot for 0.5 Confidence Level
-# plt.figure(figsize=(10, 5))
-# plt.plot(time_counts.index, time_counts.values, marker="o", linestyle="-", color="royalblue")
-# plt.xlabel("Time of Day (Hour)")
-# plt.ylabel("Number of Unique Hume's Leaf Warbler Detections")
-# plt.title("Hume's Leaf Warbler Activity Over Time - 0.5 Confidence")
-# plt.grid()
-# plt.savefig("vanessa_plots/0.5_humes_warbler_activity_over_time.png", bbox_inches="tight", dpi=300)
-# plt.show()
+# Create plot for 0.5 Confidence Level
+plt.figure(figsize=(12, 6))
+species_counts1.plot(kind="bar", color="royalblue", edgecolor="black")
+plt.xlabel("Species")
+plt.ylabel("Number of Unique Detections")
+plt.title("Top 30 Bird Species Distribution in 0.5 Confidence Dataset")
+plt.xticks(rotation=45, ha="right")
+plt.subplots_adjust(bottom=0.45)
+plt.savefig("vanessa_plots/0.5_species_distribution.png", bbox_inches="tight", dpi=300)
+plt.show()
 
 
-# # # - ELEVATION VS SPECIES - #
+# - HUME'S LEAF WARBLER ACTIVITY OVER TIME - #
 
-# # Get the top 30 most frequent species
-# df_filtered = df[df["Common name"].isin(species_counts1.index)]
+# Filter only Hume's Leaf Warbler
+df_hume = df[df["Common name"] == "hume's warbler"]
 
-# # Create plot for 0.5 Confidence Level
-# plt.figure(figsize=(12, 6))
-# sns.scatterplot(x="Common name", y="Elevation", hue="Common name", data=df_filtered, alpha=0.7, palette="tab20", legend=False)
-# plt.xticks(rotation=90)
-# plt.xlabel("Species")
-# plt.ylabel("Elevation (m)")
-# plt.title("Elevation Distribution of the 30 Most Frequent Bird Species - 0.5 Confidence")
-# plt.subplots_adjust(bottom=0.47)
-# plt.savefig("vanessa_plots/0.5_top_species_elevation_scatter.png", bbox_inches="tight", dpi=300)
-# plt.show()
+# Count occurrences of detections per hour and sort
+time_counts = df_hume["Time"].value_counts().sort_index()
 
-
-# # # - LOCAL VS UNEXPECTANT SPECIES - #
-
-# # Count occurrences of local vs. unexpected species
-# habitant_counts = df["Habitant"].value_counts()
-
-# # Create plot for 0.5 Confidence Level
-# labels1 = ["Local Species" if i == 1 else "Unexpected Species" for i in habitant_counts.index]
-# plt.figure(figsize=(6, 6))
-# plt.pie(habitant_counts, labels=labels1, autopct="%1.1f%%", colors=["green", "red"], startangle=140)
-# plt.title("Proportion of Local vs. Unexpected Species - 0.5 Confidence")
-# plt.savefig("vanessa_plots/0.5_local_vs_unexpected_species.png", bbox_inches="tight", dpi=300)
-# plt.show()
+# Create the plot for 0.5 Confidence Level
+plt.figure(figsize=(10, 5))
+plt.plot(time_counts.index, time_counts.values, marker="o", linestyle="-", color="royalblue")
+plt.xlabel("Time of Day (Hour)")
+plt.ylabel("Number of Unique Hume's Leaf Warbler Detections")
+plt.title("Hume's Leaf Warbler Activity Over Time - 0.5 Confidence")
+plt.grid()
+plt.savefig("vanessa_plots/0.5_humes_warbler_activity_over_time.png", bbox_inches="tight", dpi=300)
+plt.show()
 
 
-# # - AVERAGE SONG LENGTH FOR TOP 30 SPECIES - #
+# - ELEVATION VS SPECIES - #
+
+# Get the top 30 most frequent species
+df_filtered = df[df["Common name"].isin(species_counts1.index)]
+
+# Create plot for 0.5 Confidence Level
+plt.figure(figsize=(12, 6))
+sns.scatterplot(x="Common name", y="Elevation", hue="Common name", data=df_filtered, alpha=0.7, palette="tab20", legend=False)
+plt.xticks(rotation=90)
+plt.xlabel("Species")
+plt.ylabel("Elevation (m)")
+plt.title("Elevation Distribution of the 30 Most Frequent Bird Species - 0.5 Confidence")
+plt.subplots_adjust(bottom=0.47)
+plt.savefig("vanessa_plots/0.5_top_species_elevation_scatter.png", bbox_inches="tight", dpi=300)
+plt.show()
+
+
+# - LOCAL VS UNEXPECTANT SPECIES - #
+
+# Count occurrences of local vs. unexpected species
+habitant_counts = df["Habitant"].value_counts()
+
+# Create plot for 0.5 Confidence Level
+labels1 = ["Local Species" if i == 1 else "Unexpected Species" for i in habitant_counts.index]
+plt.figure(figsize=(6, 6))
+plt.pie(habitant_counts, labels=labels1, autopct="%1.1f%%", colors=["green", "red"], startangle=140)
+plt.title("Proportion of Local vs. Unexpected Species - 0.5 Confidence")
+plt.savefig("vanessa_plots/0.5_local_vs_unexpected_species.png", bbox_inches="tight", dpi=300)
+plt.show()
+
+
+# - AVERAGE SONG LENGTH FOR TOP 30 SPECIES - #
 
 # Get the top 30 most detected species
 top_species = df["Common name"].value_counts().head(30).index
@@ -122,7 +122,7 @@ sns.set(style="whitegrid")
 
 # Plot: Average Song Length for Top 30 Species
 plt.figure(figsize=(12, 8))
-sns.barplot(data=avg_song_lengths, x="Song Length", y="Common name", palette="viridis")
+sns.barplot(data=avg_song_lengths, x="Song Length", y="Common name", hue="Common name", palette="viridis", dodge=False, legend=False)
 plt.title("Average Song Length for Top 30 Bird Species")
 plt.xlabel("Average Song Length (seconds)")
 plt.ylabel("Bird Species")
@@ -133,7 +133,7 @@ plt.show()
 # - AVERAGE SONG LENGTH FOR HUME'S LEAF WARBLER - #
 
 # Filter for Hume's Leaf Warbler
-df_hume = df[df["Common name"] == "phylloscopus humei"]
+df_hume = df[df["Common name"] == "hume's warbler"]
 
 # Initialize variables for song length calculation
 song_lengths_hume = []
@@ -175,42 +175,42 @@ plt.tight_layout()
 plt.savefig("vanessa_plots/0.5_avg_song_length_humes_warbler.png", bbox_inches="tight", dpi=300)
 plt.show()
 
-# # - THRESHOLD ANALYSIS - #
+# - THRESHOLD ANALYSIS - #
 
-# confidence_thresholds = np.arange(0.5, 1.05, 0.05)
-# results = []
+confidence_thresholds = np.arange(0.5, 1.05, 0.05)
+results = []
 
-# for threshold in confidence_thresholds:
-#     retrieved = df[df["Confidence"] >= threshold]
+for threshold in confidence_thresholds:
+    retrieved = df[df["Confidence"] >= threshold]
 
-#     total_samples = len(retrieved)
-#     if total_samples == 0:
-#         continue
+    total_samples = len(retrieved)
+    if total_samples == 0:
+        continue
 
-#     expected_species_pct = (len(retrieved[retrieved["Habitant"] == 1]) / total_samples) * 100
-#     unexpected_species_pct = (len(retrieved[retrieved["Habitant"] == 0]) / total_samples) * 100
-#     hlw_pct = (len(retrieved[retrieved["Common name"] == "phylloscopus humei"]) / total_samples) * 100
+    expected_species_pct = (len(retrieved[retrieved["Habitant"] == 1]) / total_samples) * 100
+    unexpected_species_pct = (len(retrieved[retrieved["Habitant"] == 0]) / total_samples) * 100
+    hlw_pct = (len(retrieved[retrieved["Common name"] == "hume's warbler"]) / total_samples) * 100
 
-#     results.append({
-#         "Confidence Threshold": threshold,
-#         "Expected Species (%)": expected_species_pct,
-#         "Unexpected Species (%)": unexpected_species_pct,
-#         "Hume's Leaf Warbler (%)": hlw_pct
-#     })
+    results.append({
+        "Confidence Threshold": threshold,
+        "Expected Species (%)": expected_species_pct,
+        "Unexpected Species (%)": unexpected_species_pct,
+        "Hume's Leaf Warbler (%)": hlw_pct
+    })
 
-# # Create plot for 0.5 Confidence Level (includes data with 0.5 confidence and above)
-# results_df = pd.DataFrame(results)
-# plt.figure(figsize=(10, 6))
+# Create plot for 0.5 Confidence Level (includes data with 0.5 confidence and above)
+results_df = pd.DataFrame(results)
+plt.figure(figsize=(10, 6))
 
-# # Plot trends (percentages)
-# sns.lineplot(data=results_df, x="Confidence Threshold", y="Expected Species (%)", label="Expected Species (%)", marker="s", linestyle="-")
-# sns.lineplot(data=results_df, x="Confidence Threshold", y="Unexpected Species (%)", label="Unexpected Species (%)", marker="^", linestyle="-.")
-# sns.lineplot(data=results_df, x="Confidence Threshold", y="Hume's Leaf Warbler (%)", label="Hume's Leaf Warbler (%)", marker="d", linestyle=":")
+# Plot trends (percentages)
+sns.lineplot(data=results_df, x="Confidence Threshold", y="Expected Species (%)", label="Expected Species (%)", marker="s", linestyle="-")
+sns.lineplot(data=results_df, x="Confidence Threshold", y="Unexpected Species (%)", label="Unexpected Species (%)", marker="^", linestyle="-.")
+sns.lineplot(data=results_df, x="Confidence Threshold", y="Hume's Leaf Warbler (%)", label="Hume's Leaf Warbler (%)", marker="d", linestyle=":")
 
-# plt.xlabel("Confidence Threshold")
-# plt.ylabel("Percentage (%)")
-# plt.title("BirdNet Confidence Threshold Analysis (0.5 Confidence Data) - Percentage")
-# plt.grid(True)
-# plt.legend()
-# plt.savefig("vanessa_plots/threshold_analysis.png", bbox_inches="tight", dpi=300)
-# plt.show()
+plt.xlabel("Confidence Threshold")
+plt.ylabel("Percentage (%)")
+plt.title("BirdNet Confidence Threshold Analysis (0.5 Confidence Data) - Percentage")
+plt.grid(True)
+plt.legend()
+plt.savefig("vanessa_plots/threshold_analysis.png", bbox_inches="tight", dpi=300)
+plt.show()

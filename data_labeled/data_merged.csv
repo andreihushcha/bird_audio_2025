@@ -1,0 +1,1189 @@
+File_name,Common name,Confidence,Buzz,Call,Cluster
+100303934_000_003.wav,Hume's Warbler,0.9588,,,0
+100303934_003_006.wav,Hume's Warbler,0.9927,,,0
+100303934_006_009.wav,Hume's Warbler,0.9865,,,0
+100303934_009_012.wav,Hume's Warbler,0.9831,,,1
+100971737_000_003.wav,Hume's Warbler,0.8851,,,0
+100971737_003_006.wav,Hume's Warbler,0.2248,,,0
+100971737_009_012.wav,Hume's Warbler,0.3209,,,-1
+101454210_000_003.wav,Hume's Warbler,0.5942,,,0
+101454210_000_003.wav,Hammond's Flycatcher,0.1378,,,0
+101454210_000_003.wav,Pallas's Leaf Warbler,0.1361,,,0
+101454210_003_006.wav,Hume's Warbler,0.841,,,0
+104523910_000_003.wav,Hume's Warbler,0.9785,,,0
+104523910_003_006.wav,Hume's Warbler,0.9649,,,0
+104523910_006_009.wav,Hume's Warbler,0.8252,,,1
+104523910_2_000_003.wav,Hume's Warbler,0.8144,,,0
+104523910_2_003_006.wav,Hume's Warbler,0.9515,,,0
+104523910_2_006_009.wav,Hume's Warbler,0.9331,,,0
+104523910_2_006_009.wav,American Tree Sparrow,0.4261,,,0
+104523910_2_009_012.wav,Hume's Warbler,0.9837,,,0
+108167105_000_003.wav,Hume's Warbler,0.9804,,,0
+108167105_003_006.wav,Hume's Warbler,0.929,,,0
+108167105_006_009.wav,Hume's Warbler,0.8661,,,0
+108167105_009_012.wav,Hume's Warbler,0.92,,,0
+108167105_009_012.wav,Whistler's Warbler,0.1069,,,0
+110480311_000_003.wav,Hume's Warbler,0.9923,,,0
+110480311_003_006.wav,Hume's Warbler,0.9855,,,0
+110480311_006_009.wav,Hume's Warbler,0.978,,,0
+110480311_009_012.wav,Hume's Warbler,0.9486,,,-1
+141990467_000_003.wav,Hume's Warbler,0.9788,,,0
+141990467_003_006.wav,Hume's Warbler,0.9753,,,-1
+146551305_000_003.wav,Common Chaffinch,0.2514,,,0
+146551305_003_006.wav,Hume's Warbler,0.9617,,,0
+146551305_006_009.wav,Hume's Warbler,0.1483,,,0
+149225498_000_003.wav,Hume's Warbler,0.9745,,,0
+149225498_003_006.wav,Hume's Warbler,0.9139,,,0
+149225498_006_009.wav,Hume's Warbler,0.9556,,,0
+149225498_006_009.wav,Great Tit,0.1085,,,0
+149225498_009_012.wav,Hume's Warbler,0.9622,,,-1
+149560752_000_003.wav,Hume's Warbler,0.8892,,,-1
+151353223_000_003.wav,Hume's Warbler,0.9923,,,0
+151353223_000_003.wav,Eurasian Collared-Dove,0.1455,,,0
+151353223_003_006.wav,Hume's Warbler,0.9438,,,0
+151353223_006_009.wav,Engine,0.1232,,,-1
+162863233_009_012.wav,Dark-necked Tailorbird,0.2397,,,-1
+162863233_012_015.wav,Chestnut-backed Scimitar-Babbler,0.1308,,,1
+162863233_012_015.wav,Indian Scimitar-Babbler,0.1155,,,1
+162863233_2_009_012.wav,Dark-necked Tailorbird,0.2397,,,-1
+162863233_2_012_015.wav,Chestnut-backed Scimitar-Babbler,0.1308,,,1
+162863233_2_012_015.wav,Indian Scimitar-Babbler,0.1155,,,1
+192197242_000_003.wav,Hume's Warbler,0.981,,,0
+192197242_003_006.wav,Hume's Warbler,0.971,,,0
+192197242_006_009.wav,Hume's Warbler,0.9865,,,0
+192197242_009_012.wav,Hume's Warbler,0.9828,,,0
+192820943_000_003.wav,Hume's Warbler,0.9082,,,0
+192820943_003_006.wav,Hume's Warbler,0.9866,,,0
+192820943_006_009.wav,Hume's Warbler,0.2735,,,0
+192820943_006_009.wav,Barn Swallow,0.1731,,,0
+194222197_003_006.wav,Hume's Warbler,0.9297,,,-1
+194222197_009_012.wav,Hume's Warbler,0.9866,,,-1
+194222197_012_015.wav,Hume's Warbler,0.9813,,,0
+194222197_015_018.wav,Hume's Warbler,0.9701,,,0
+194222197_018_021.wav,Engine,0.1795,,,1
+200015152_000_003.wav,Hume's Warbler,0.9877,,,0
+200015152_003_006.wav,Hume's Warbler,0.9193,,,0
+200015152_003_006.wav,Fairy Martin,0.117,,,0
+200015152_006_009.wav,Hume's Warbler,0.9581,,,0
+200015152_006_009.wav,Rose-ringed Parakeet,0.149,,,0
+200015152_009_012.wav,Hume's Warbler,0.4133,,,0
+200015152_012_015.wav,Rose-ringed Parakeet,0.3255,,,0
+200015152_015_018.wav,Hume's Warbler,0.6943,,,0
+200015152_015_018.wav,Rose-ringed Parakeet,0.1359,,,0
+200015152_018_021.wav,Hume's Warbler,0.9716,,,0
+200015152_021_024.wav,Rose-ringed Parakeet,0.7123,,,0
+200015152_024_027.wav,Hume's Warbler,0.9922,,,0
+200015152_027_030.wav,Hume's Warbler,0.971,,,0
+200015152_030_033.wav,Hume's Warbler,0.9665,,,0
+200015152_039_042.wav,Hume's Warbler,0.9975,,,0
+200015152_045_048.wav,Hume's Warbler,0.9933,,,0
+200015152_051_054.wav,Hume's Warbler,0.9983,,,0
+200015152_057_060.wav,Red-tailed Black-Cockatoo,0.1393,,,0
+200015152_063_066.wav,Eastern Rosella,0.1006,,,0
+200015152_066_069.wav,Rose-ringed Parakeet,0.9228,,,0
+200015152_069_072.wav,Rose-ringed Parakeet,0.7633,,,0
+200123250_000_003.wav,Hume's Warbler,0.9835,,,0
+205216347_000_003.wav,Hume's Warbler,0.8678,,,-1
+220605925_000_003.wav,Hume's Warbler,0.8291,,,-1
+220605925_003_006.wav,Yellow-fronted Canary,0.3174,,,-1
+220605925_003_006.wav,Chinese Leaf Warbler,0.2465,,,-1
+220605925_003_006.wav,Hume's Warbler,0.1402,,,-1
+220605925_006_009.wav,Greenish Warbler,0.1465,,,-1
+220605925_009_012.wav,Hume's Warbler,0.9481,,,-1
+220605925_012_015.wav,Chinese Leaf Warbler,0.9374,,,-1
+220605925_015_018.wav,Chinese Leaf Warbler,0.3553,,,-1
+239740886_000_003.wav,Hume's Warbler,0.8127,,,0
+239740886_003_006.wav,Hume's Warbler,0.9841,,,0
+239740886_006_009.wav,Hume's Warbler,0.2369,,,-1
+239740886_006_009.wav,Yellow-browed Warbler,0.1798,,,-1
+239740886_006_009.wav,Green Warbler,0.1062,,,-1
+246099744_003_006.wav,Hume's Warbler,0.141,,,-1
+246099744_003_006.wav,Engine,0.1137,,,-1
+246650983_000_003.wav,Hume's Warbler,0.9994,,,0
+246650983_003_006.wav,Hume's Warbler,0.9994,,,0
+246650983_006_009.wav,Hume's Warbler,0.9954,,,-1
+250332058_000_003.wav,Hume's Warbler,0.9968,,,-1
+250332058_003_006.wav,Hume's Warbler,0.9926,,,-1
+252265310_000_003.wav,Crested Tit,0.4286,,,0
+252265310_000_003.wav,Eurasian Blue Tit,0.1391,,,0
+252265310_003_006.wav,Rock Bunting,0.1233,,,0
+252265310_006_009.wav,Hume's Warbler,0.9499,,,0
+257328894_000_003.wav,Hume's Warbler,0.9525,,,-1
+257328894_003_006.wav,Hume's Warbler,0.9371,,,-1
+257328894_2_000_003.wav,Hume's Warbler,0.957,,,-1
+257328894_2_003_006.wav,Hume's Warbler,0.8657,,,-1
+257328894_2_006_009.wav,Hume's Warbler,0.8499,,,-1
+257328894_2_009_012.wav,Hume's Warbler,0.9202,,,0
+257328894_2_012_015.wav,Hume's Warbler,0.7944,,,0
+257328894_2_015_018.wav,Hume's Warbler,0.8908,,,-1
+257571222_000_003.wav,Hume's Warbler,0.988,,,-1
+257578276_000_003.wav,Hume's Warbler,0.9386,,,0
+259575515_000_003.wav,Hume's Warbler,0.9627,,,0
+259575515_000_003.wav,Two-barred Warbler,0.3489,,,0
+259575515_003_006.wav,Hume's Warbler,0.9434,,,0
+259575515_009_012.wav,Hume's Warbler,0.9592,,,0
+259575515_012_015.wav,White Wagtail,0.942,,,0
+259575515_012_015.wav,Hume's Warbler,0.3207,,,0
+259575515_012_015.wav,Gray-hooded Sierra Finch,0.1613,,,0
+260390902_000_003.wav,Hume's Warbler,0.8511,,,0
+260390902_003_006.wav,Hume's Warbler,0.9494,,,0
+260390902_006_009.wav,Hume's Warbler,0.9233,,,0
+260390902_006_009.wav,Black Phoebe,0.1165,,,0
+261115712_000_003.wav,Tree Pipit,0.2836,,,0
+261115712_000_003.wav,Red Avadavat,0.1319,,,0
+261115712_009_012.wav,Wilson's Phalarope,0.2122,,,0
+261115712_009_012.wav,Greater Prairie-Chicken,0.1419,,,0
+261115712_012_015.wav,Hume's Warbler,0.8542,,,0
+261115712_015_018.wav,Greater Sage-Grouse,0.1712,,,1
+261115712_015_018.wav,Rock Pigeon,0.1681,,,1
+261279011_000_003.wav,Hume's Warbler,0.5054,,,0
+261279011_006_009.wav,Hume's Warbler,0.5213,,,0
+261279011_009_012.wav,Hume's Warbler,0.6107,,,0
+261279011_012_015.wav,Hume's Warbler,0.8529,,,0
+261279011_012_015.wav,Human vocal,0.1019,,,0
+261279011_015_018.wav,Human vocal,0.7641,,,0
+261279011_018_021.wav,Hume's Warbler,0.5838,,,0
+261279011_021_024.wav,Hume's Warbler,0.4573,,,0
+261279011_021_024.wav,Tree Swallow,0.1218,,,0
+261279011_024_027.wav,Hume's Warbler,0.6408,,,0
+261279011_027_030.wav,Hume's Warbler,0.6965,,,0
+261279011_030_033.wav,Hume's Warbler,0.6197,,,0
+261279011_033_036.wav,Hume's Warbler,0.8851,,,-1
+261279011_033_036.wav,Engine,0.2578,,,-1
+261279011_036_039.wav,Engine,0.8473,,,-1
+261279011_036_039.wav,Hume's Warbler,0.6616,,,-1
+261279011_039_042.wav,Hume's Warbler,0.6632,,,0
+261279011_039_042.wav,Engine,0.2971,,,0
+261279011_042_045.wav,Hume's Warbler,0.813,,,0
+261429791_000_003.wav,Hume's Warbler,0.4482,,,0
+261429791_003_006.wav,Bearded Reedling,0.2614,,,0
+261429791_006_009.wav,Hume's Warbler,0.9961,,,0
+261429791_009_012.wav,Hume's Warbler,0.109,,,0
+261429791_012_015.wav,Common Redpoll,0.2702,,,0
+261429791_012_015.wav,Red-headed Myzomela,0.1666,,,0
+261429791_012_015.wav,Bearded Reedling,0.1358,,,0
+262114436_000_003.wav,Greenish Warbler,0.5428,,,-1
+262114436_000_003.wav,Hume's Warbler,0.3656,,,-1
+262114436_003_006.wav,Hume's Warbler,0.3211,,,-1
+262114436_006_009.wav,Hume's Warbler,0.553,,,-1
+262114436_006_009.wav,Greenish Warbler,0.1639,,,-1
+262114436_009_012.wav,Hume's Warbler,0.7043,,,-1
+262114436_012_015.wav,Long-billed Hermit,0.9351,,,-1
+262114436_012_015.wav,Hume's Warbler,0.4054,,,-1
+262114436_012_015.wav,Engine,0.101,,,-1
+66223409_000_003.wav,Hume's Warbler,0.9199,,,0
+66223409_003_006.wav,Hume's Warbler,0.8998,,,0
+66223409_003_006.wav,Eurasian Penduline-Tit,0.4255,,,0
+66223409_006_009.wav,Hume's Warbler,0.974,,,0
+66223409_009_012.wav,Hume's Warbler,0.94,,,0
+66696015_000_003.wav,Hume's Warbler,0.9931,,,0
+66696015_006_009.wav,Hume's Warbler,0.9888,,,0
+66696015_009_012.wav,Hume's Warbler,0.9959,,,0
+88074524_000_003.wav,Hume's Warbler,0.3575,,,0
+88074524_000_003.wav,Greenish Warbler,0.1247,,,0
+88074524_003_006.wav,Hume's Warbler,0.9582,,,-1
+90247731_000_003.wav,Hume's Warbler,0.9675,,,-1
+90247731_000_003.wav,Tickell's Leaf Warbler,0.1163,,,-1
+90247731_003_006.wav,Hume's Warbler,0.9879,,,-1
+90247731_003_006.wav,Tickell's Leaf Warbler,0.1753,,,-1
+XC116651 - Hume's Leaf Warbler - Phylloscopus humei humei_000_003.wav,Hume's Warbler,0.9935,,,0
+XC116651 - Hume's Leaf Warbler - Phylloscopus humei humei_006_009.wav,Hume's Warbler,0.975,,,-1
+XC116651 - Hume's Leaf Warbler - Phylloscopus humei humei_009_012.wav,Hume's Warbler,0.9746,,,0
+XC116651 - Hume's Leaf Warbler - Phylloscopus humei humei_009_012.wav,Two-barred Warbler,0.1238,,,0
+XC116651 - Hume's Leaf Warbler - Phylloscopus humei humei_009_012.wav,Greenish Warbler,0.1188,,,0
+XC116651 - Hume's Leaf Warbler - Phylloscopus humei humei_012_015.wav,Hume's Warbler,0.31,,,0
+XC116651 - Hume's Leaf Warbler - Phylloscopus humei humei_015_018.wav,Hume's Warbler,0.9797,,,-1
+XC116651 - Hume's Leaf Warbler - Phylloscopus humei humei_015_018.wav,Two-barred Warbler,0.1871,,,-1
+XC116651 - Hume's Leaf Warbler - Phylloscopus humei humei_015_018.wav,Greenish Warbler,0.1276,,,-1
+XC116652 - Hume's Leaf Warbler - Phylloscopus humei humei_000_003.wav,Hume's Warbler,0.978,,,0
+XC116652 - Hume's Leaf Warbler - Phylloscopus humei humei_003_006.wav,Hume's Warbler,0.9674,,,0
+XC116652 - Hume's Leaf Warbler - Phylloscopus humei humei_006_009.wav,Hume's Warbler,0.9674,,,0
+XC116652 - Hume's Leaf Warbler - Phylloscopus humei humei_006_009.wav,Greenish Warbler,0.195,,,0
+XC116652 - Hume's Leaf Warbler - Phylloscopus humei humei_009_012.wav,Hume's Warbler,0.9454,,,0
+XC116652 - Hume's Leaf Warbler - Phylloscopus humei humei_012_015.wav,Hume's Warbler,0.9712,,,0
+XC116652 - Hume's Leaf Warbler - Phylloscopus humei humei_012_015.wav,Greenish Warbler,0.1131,,,0
+XC116652 - Hume's Leaf Warbler - Phylloscopus humei humei_015_018.wav,Hume's Warbler,0.9876,,,0
+XC116652 - Hume's Leaf Warbler - Phylloscopus humei humei_015_018.wav,Greenish Warbler,0.1804,,,0
+XC116652 - Hume's Leaf Warbler - Phylloscopus humei humei_018_021.wav,Hume's Warbler,0.9775,,,0
+XC116652 - Hume's Leaf Warbler - Phylloscopus humei humei_021_024.wav,Hume's Warbler,0.9635,,,0
+XC116652 - Hume's Leaf Warbler - Phylloscopus humei humei_024_027.wav,Hume's Warbler,0.9833,,,0
+XC116652 - Hume's Leaf Warbler - Phylloscopus humei humei_027_030.wav,Hume's Warbler,0.9946,,,0
+XC116652 - Hume's Leaf Warbler - Phylloscopus humei humei_030_033.wav,Hume's Warbler,0.9519,,,1
+XC120473 - Hume's Leaf Warbler - Phylloscopus humei humei_000_003.wav,Hume's Warbler,0.6881,,,-1
+XC120473 - Hume's Leaf Warbler - Phylloscopus humei humei_000_003.wav,Common Rosefinch,0.1511,,,-1
+XC120473 - Hume's Leaf Warbler - Phylloscopus humei humei_003_006.wav,Common Rosefinch,0.8665,,,0
+XC120473 - Hume's Leaf Warbler - Phylloscopus humei humei_006_009.wav,Common Rosefinch,0.6842,,,0
+XC120473 - Hume's Leaf Warbler - Phylloscopus humei humei_009_012.wav,Western Bonelli's Warbler,0.236,,,0
+XC120473 - Hume's Leaf Warbler - Phylloscopus humei humei_012_015.wav,Hume's Warbler,0.8612,,,-1
+XC120473 - Hume's Leaf Warbler - Phylloscopus humei humei_015_018.wav,Common Rosefinch,0.8386,,,0
+XC120473 - Hume's Leaf Warbler - Phylloscopus humei humei_018_021.wav,Common Rosefinch,0.9777,,,0
+XC120473 - Hume's Leaf Warbler - Phylloscopus humei humei_021_024.wav,Common Rosefinch,0.8723,,,0
+XC120473 - Hume's Leaf Warbler - Phylloscopus humei humei_024_027.wav,Hume's Warbler,0.9801,,,-1
+XC120473 - Hume's Leaf Warbler - Phylloscopus humei humei_027_030.wav,Common Rosefinch,0.8622,,,0
+XC120473 - Hume's Leaf Warbler - Phylloscopus humei humei_033_036.wav,Common Rosefinch,0.9815,,,0
+XC120473 - Hume's Leaf Warbler - Phylloscopus humei humei_036_039.wav,Hume's Warbler,0.931,,,-1
+XC120473 - Hume's Leaf Warbler - Phylloscopus humei humei_039_042.wav,Common Rosefinch,0.7929,,,1
+XC120496 - Hume's Leaf Warbler - Phylloscopus humei humei_000_003.wav,Hume's Warbler,0.9985,,,0
+XC120496 - Hume's Leaf Warbler - Phylloscopus humei humei_003_006.wav,Hume's Warbler,0.979,,,0
+XC120496 - Hume's Leaf Warbler - Phylloscopus humei humei_006_009.wav,Hume's Warbler,0.8921,,,0
+XC120496 - Hume's Leaf Warbler - Phylloscopus humei humei_009_012.wav,Hume's Warbler,0.9878,,,0
+XC120496 - Hume's Leaf Warbler - Phylloscopus humei humei_012_015.wav,Hume's Warbler,0.9982,,,0
+XC120496 - Hume's Leaf Warbler - Phylloscopus humei humei_015_018.wav,Hume's Warbler,0.9937,,,0
+XC120496 - Hume's Leaf Warbler - Phylloscopus humei humei_018_021.wav,Hume's Warbler,0.995,,,0
+XC120496 - Hume's Leaf Warbler - Phylloscopus humei humei_021_024.wav,Hume's Warbler,0.9973,,,0
+XC120496 - Hume's Leaf Warbler - Phylloscopus humei humei_024_027.wav,Hume's Warbler,0.9952,,,0
+XC120496 - Hume's Leaf Warbler - Phylloscopus humei humei_027_030.wav,Hume's Warbler,0.9975,,,0
+XC128094 - Hume's Leaf Warbler - Phylloscopus humei humei_000_003.wav,Hume's Warbler,0.9903,,,-1
+XC128094 - Hume's Leaf Warbler - Phylloscopus humei humei_003_006.wav,Hume's Warbler,0.9536,,,-1
+XC128094 - Hume's Leaf Warbler - Phylloscopus humei humei_006_009.wav,Hume's Warbler,0.928,,,-1
+XC128094 - Hume's Leaf Warbler - Phylloscopus humei humei_009_012.wav,Hume's Warbler,0.9652,,,-1
+XC128094 - Hume's Leaf Warbler - Phylloscopus humei humei_012_015.wav,Hume's Warbler,0.9973,,,0
+XC128094 - Hume's Leaf Warbler - Phylloscopus humei humei_015_018.wav,Hume's Warbler,0.9865,,,0
+XC128094 - Hume's Leaf Warbler - Phylloscopus humei humei_018_021.wav,Hume's Warbler,0.9466,,,0
+XC128094 - Hume's Leaf Warbler - Phylloscopus humei humei_021_024.wav,Hume's Warbler,0.21,,,1
+XC128094 - Hume's Leaf Warbler - Phylloscopus humei humei_021_024.wav,Greenish Warbler,0.201,,,1
+XC128095 - Hume's Leaf Warbler - Phylloscopus humei humei_000_003.wav,Hume's Warbler,0.9976,,,0
+XC128095 - Hume's Leaf Warbler - Phylloscopus humei humei_003_006.wav,Hume's Warbler,0.9914,,,0
+XC128095 - Hume's Leaf Warbler - Phylloscopus humei humei_006_009.wav,Hume's Warbler,0.9253,,,0
+XC128095 - Hume's Leaf Warbler - Phylloscopus humei humei_009_012.wav,Hume's Warbler,0.9935,,,0
+XC128095 - Hume's Leaf Warbler - Phylloscopus humei humei_012_015.wav,Hume's Warbler,0.989,,,0
+XC128095 - Hume's Leaf Warbler - Phylloscopus humei humei_015_018.wav,Hume's Warbler,0.9817,,,-1
+XC128095 - Hume's Leaf Warbler - Phylloscopus humei humei_018_021.wav,Hume's Warbler,0.9889,,,0
+XC128095 - Hume's Leaf Warbler - Phylloscopus humei humei_021_024.wav,Hume's Warbler,0.9898,,,-1
+XC128097 - Hume's Leaf Warbler - Phylloscopus humei humei_000_003.wav,Hume's Warbler,0.9373,,,0
+XC128097 - Hume's Leaf Warbler - Phylloscopus humei humei_003_006.wav,Hume's Warbler,0.9636,,,0
+XC128097 - Hume's Leaf Warbler - Phylloscopus humei humei_006_009.wav,Hume's Warbler,0.8987,,,0
+XC128097 - Hume's Leaf Warbler - Phylloscopus humei humei_009_012.wav,Hume's Warbler,0.9077,,,0
+XC128097 - Hume's Leaf Warbler - Phylloscopus humei humei_012_015.wav,Hume's Warbler,0.8428,,,0
+XC128097 - Hume's Leaf Warbler - Phylloscopus humei humei_015_018.wav,Hume's Warbler,0.7462,,,0
+XC128097 - Hume's Leaf Warbler - Phylloscopus humei humei_018_021.wav,Hume's Warbler,0.7834,,,0
+XC128097 - Hume's Leaf Warbler - Phylloscopus humei humei_021_024.wav,Hume's Warbler,0.9464,,,0
+XC128097 - Hume's Leaf Warbler - Phylloscopus humei humei_024_027.wav,Hume's Warbler,0.9675,,,0
+XC128097 - Hume's Leaf Warbler - Phylloscopus humei humei_027_030.wav,Hume's Warbler,0.7619,,,0
+XC128097 - Hume's Leaf Warbler - Phylloscopus humei humei_030_033.wav,Hume's Warbler,0.7907,,,0
+XC128097 - Hume's Leaf Warbler - Phylloscopus humei humei_033_036.wav,Hume's Warbler,0.9577,,,0
+XC128097 - Hume's Leaf Warbler - Phylloscopus humei humei_036_039.wav,Hume's Warbler,0.8831,,,0
+XC128097 - Hume's Leaf Warbler - Phylloscopus humei humei_039_042.wav,Hume's Warbler,0.8374,,,0
+XC128097 - Hume's Leaf Warbler - Phylloscopus humei humei_042_045.wav,Hume's Warbler,0.7733,,,0
+XC128097 - Hume's Leaf Warbler - Phylloscopus humei humei_045_048.wav,Hume's Warbler,0.9411,,,0
+XC128097 - Hume's Leaf Warbler - Phylloscopus humei humei_048_051.wav,Hume's Warbler,0.6632,,,0
+XC128097 - Hume's Leaf Warbler - Phylloscopus humei humei_051_054.wav,Hume's Warbler,0.6739,,,0
+XC128097 - Hume's Leaf Warbler - Phylloscopus humei humei_057_060.wav,Hume's Warbler,0.8681,,,0
+XC128097 - Hume's Leaf Warbler - Phylloscopus humei humei_060_063.wav,Hume's Warbler,0.9374,,,0
+XC128097 - Hume's Leaf Warbler - Phylloscopus humei humei_063_066.wav,Hume's Warbler,0.9067,,,0
+XC128097 - Hume's Leaf Warbler - Phylloscopus humei humei_066_069.wav,Hume's Warbler,0.7751,,,0
+XC128097 - Hume's Leaf Warbler - Phylloscopus humei humei_072_075.wav,Hume's Warbler,0.4208,,,0
+XC145184 - Hume's Leaf Warbler - Phylloscopus humei humei_000_003.wav,Hume's Warbler,0.8978,,,0
+XC145184 - Hume's Leaf Warbler - Phylloscopus humei humei_003_006.wav,Hume's Warbler,0.9858,,,0
+XC145184 - Hume's Leaf Warbler - Phylloscopus humei humei_006_009.wav,Hume's Warbler,0.8282,,,0
+XC145184 - Hume's Leaf Warbler - Phylloscopus humei humei_009_012.wav,Hume's Warbler,0.9617,,,0
+XC145184 - Hume's Leaf Warbler - Phylloscopus humei humei_012_015.wav,Hume's Warbler,0.9684,,,0
+XC145184 - Hume's Leaf Warbler - Phylloscopus humei humei_015_018.wav,Hume's Warbler,0.9903,,,0
+XC145184 - Hume's Leaf Warbler - Phylloscopus humei humei_018_021.wav,Hume's Warbler,0.9979,,,0
+XC145184 - Hume's Leaf Warbler - Phylloscopus humei humei_021_024.wav,Hume's Warbler,0.9847,,,0
+XC145184 - Hume's Leaf Warbler - Phylloscopus humei humei_024_027.wav,Hume's Warbler,0.9947,,,0
+XC145184 - Hume's Leaf Warbler - Phylloscopus humei humei_027_030.wav,Hume's Warbler,0.9859,,,0
+XC145184 - Hume's Leaf Warbler - Phylloscopus humei humei_030_033.wav,Hume's Warbler,0.9621,,,0
+XC145184 - Hume's Leaf Warbler - Phylloscopus humei humei_033_036.wav,Hume's Warbler,0.9622,,,0
+XC145184 - Hume's Leaf Warbler - Phylloscopus humei humei_036_039.wav,Hume's Warbler,0.9966,,,0
+XC145184 - Hume's Leaf Warbler - Phylloscopus humei humei_039_042.wav,Hume's Warbler,0.9956,,,0
+XC145184 - Hume's Leaf Warbler - Phylloscopus humei humei_042_045.wav,Hume's Warbler,0.9639,,,0
+XC145217 - Hume's Leaf Warbler - Phylloscopus humei humei_000_003.wav,Eurasian Siskin,0.3376,,,0
+XC145217 - Hume's Leaf Warbler - Phylloscopus humei humei_003_006.wav,Hume's Warbler,0.9728,,,-1
+XC145217 - Hume's Leaf Warbler - Phylloscopus humei humei_006_009.wav,Hume's Warbler,0.1565,,,-1
+XC145217 - Hume's Leaf Warbler - Phylloscopus humei humei_009_012.wav,Two-barred Warbler,0.1662,,,0
+XC145217 - Hume's Leaf Warbler - Phylloscopus humei humei_012_015.wav,Two-barred Warbler,0.1387,,,0
+XC145217 - Hume's Leaf Warbler - Phylloscopus humei humei_015_018.wav,Hume's Warbler,0.9193,,,-1
+XC145217 - Hume's Leaf Warbler - Phylloscopus humei humei_018_021.wav,Hume's Warbler,0.2239,,,0
+XC145217 - Hume's Leaf Warbler - Phylloscopus humei humei_021_024.wav,Long-tailed Minivet,0.2907,,,0
+XC145217 - Hume's Leaf Warbler - Phylloscopus humei humei_021_024.wav,Two-barred Warbler,0.1539,,,0
+XC145217 - Hume's Leaf Warbler - Phylloscopus humei humei_024_027.wav,Dusky Warbler,0.161,,,0
+XC145217 - Hume's Leaf Warbler - Phylloscopus humei humei_024_027.wav,Two-barred Warbler,0.1208,,,0
+XC145217 - Hume's Leaf Warbler - Phylloscopus humei humei_027_030.wav,Hume's Warbler,0.9818,,,0
+XC145217 - Hume's Leaf Warbler - Phylloscopus humei humei_030_033.wav,Hume's Warbler,0.6959,,,0
+XC145217 - Hume's Leaf Warbler - Phylloscopus humei humei_033_036.wav,Two-barred Warbler,0.1314,,,0
+XC145217 - Hume's Leaf Warbler - Phylloscopus humei humei_036_039.wav,Hume's Warbler,0.6968,,,-1
+XC145217 - Hume's Leaf Warbler - Phylloscopus humei humei_039_042.wav,Hume's Warbler,0.992,,,0
+XC145217 - Hume's Leaf Warbler - Phylloscopus humei humei_042_045.wav,Hume's Warbler,0.6283,,,0
+XC145217 - Hume's Leaf Warbler - Phylloscopus humei humei_042_045.wav,Common Rosefinch,0.4131,,,0
+XC145217 - Hume's Leaf Warbler - Phylloscopus humei humei_045_048.wav,Dusky Warbler,0.4403,,,-1
+XC145217 - Hume's Leaf Warbler - Phylloscopus humei humei_048_051.wav,Hume's Warbler,0.9377,,,0
+XC145217 - Hume's Leaf Warbler - Phylloscopus humei humei_051_054.wav,Hume's Warbler,0.9274,,,-1
+XC149330 - Hume's Leaf Warbler - Phylloscopus humei humei_000_003.wav,Hume's Warbler,0.944,,,-1
+XC149330 - Hume's Leaf Warbler - Phylloscopus humei humei_003_006.wav,Hume's Warbler,0.9701,,,-1
+XC149330 - Hume's Leaf Warbler - Phylloscopus humei humei_006_009.wav,Hume's Warbler,0.7304,,,-1
+XC149330 - Hume's Leaf Warbler - Phylloscopus humei humei_009_012.wav,Hume's Warbler,0.8534,,,-1
+XC149330 - Hume's Leaf Warbler - Phylloscopus humei humei_012_015.wav,Hume's Warbler,0.8289,,,-1
+XC149330 - Hume's Leaf Warbler - Phylloscopus humei humei_015_018.wav,Hume's Warbler,0.9516,,,-1
+XC149330 - Hume's Leaf Warbler - Phylloscopus humei humei_018_021.wav,Hume's Warbler,0.9114,,,-1
+XC149330 - Hume's Leaf Warbler - Phylloscopus humei humei_021_024.wav,Hume's Warbler,0.8824,,,-1
+XC149330 - Hume's Leaf Warbler - Phylloscopus humei humei_024_027.wav,Hume's Warbler,0.7882,,,-1
+XC149330 - Hume's Leaf Warbler - Phylloscopus humei humei_027_030.wav,Hume's Warbler,0.7802,,,-1
+XC149330 - Hume's Leaf Warbler - Phylloscopus humei humei_030_033.wav,Hume's Warbler,0.9439,,,-1
+XC149330 - Hume's Leaf Warbler - Phylloscopus humei humei_033_036.wav,Hume's Warbler,0.8601,,,-1
+XC149330 - Hume's Leaf Warbler - Phylloscopus humei humei_036_039.wav,Hume's Warbler,0.8351,,,-1
+XC149330 - Hume's Leaf Warbler - Phylloscopus humei humei_039_042.wav,Hume's Warbler,0.3064,,,-1
+XC149330 - Hume's Leaf Warbler - Phylloscopus humei humei_039_042.wav,Greenish Elaenia,0.1453,,,-1
+XC150181 - Hume's Leaf Warbler - Phylloscopus humei humei_000_003.wav,Hume's Warbler,0.9975,,,0
+XC150181 - Hume's Leaf Warbler - Phylloscopus humei humei_003_006.wav,Hume's Warbler,0.9992,,,0
+XC150181 - Hume's Leaf Warbler - Phylloscopus humei humei_006_009.wav,Hume's Warbler,0.9992,,,0
+XC150181 - Hume's Leaf Warbler - Phylloscopus humei humei_009_012.wav,Hume's Warbler,0.9962,,,0
+XC150181 - Hume's Leaf Warbler - Phylloscopus humei humei_012_015.wav,Hume's Warbler,0.9989,,,0
+XC150181 - Hume's Leaf Warbler - Phylloscopus humei humei_015_018.wav,Hume's Warbler,0.9981,,,-1
+XC150181 - Hume's Leaf Warbler - Phylloscopus humei humei_018_021.wav,Hume's Warbler,0.9994,,,0
+XC150198 - Hume's Leaf Warbler - Phylloscopus humei humei_000_003.wav,Hume's Warbler,0.9981,,,0
+XC150198 - Hume's Leaf Warbler - Phylloscopus humei humei_003_006.wav,Hume's Warbler,0.9894,,,0
+XC150198 - Hume's Leaf Warbler - Phylloscopus humei humei_006_009.wav,Hume's Warbler,0.9662,,,0
+XC150198 - Hume's Leaf Warbler - Phylloscopus humei humei_009_012.wav,Hume's Warbler,0.9979,,,0
+XC150198 - Hume's Leaf Warbler - Phylloscopus humei humei_012_015.wav,Hume's Warbler,0.9064,,,-1
+XC150198 - Hume's Leaf Warbler - Phylloscopus humei humei_012_015.wav,Two-barred Warbler,0.1254,,,-1
+XC162534 - Hume's Leaf Warbler - Phylloscopus humei humei_000_003.wav,Hume's Warbler,0.9715,,,0
+XC162534 - Hume's Leaf Warbler - Phylloscopus humei humei_003_006.wav,Hume's Warbler,0.9756,,,0
+XC162534 - Hume's Leaf Warbler - Phylloscopus humei humei_006_009.wav,Hume's Warbler,0.787,,,0
+XC162534 - Hume's Leaf Warbler - Phylloscopus humei humei_009_012.wav,Hume's Warbler,0.8281,,,0
+XC162534 - Hume's Leaf Warbler - Phylloscopus humei humei_012_015.wav,Red-throated Thrush,0.3921,,,0
+XC162534 - Hume's Leaf Warbler - Phylloscopus humei humei_012_015.wav,Eurasian Magpie,0.2467,,,0
+XC162534 - Hume's Leaf Warbler - Phylloscopus humei humei_012_015.wav,Dusky Thrush,0.1384,,,0
+XC162534 - Hume's Leaf Warbler - Phylloscopus humei humei_015_018.wav,Hume's Warbler,0.9996,,,0
+XC162534 - Hume's Leaf Warbler - Phylloscopus humei humei_021_024.wav,Western Yellow Wagtail,0.2416,,,0
+XC162534 - Hume's Leaf Warbler - Phylloscopus humei humei_024_027.wav,Hume's Warbler,0.1865,,,0
+XC162534 - Hume's Leaf Warbler - Phylloscopus humei humei_027_030.wav,Hume's Warbler,0.2066,,,0
+XC162534 - Hume's Leaf Warbler - Phylloscopus humei humei_030_033.wav,Hume's Warbler,0.8375,,,0
+XC162534 - Hume's Leaf Warbler - Phylloscopus humei humei_033_036.wav,Hume's Warbler,0.9145,,,0
+XC162534 - Hume's Leaf Warbler - Phylloscopus humei humei_033_036.wav,Dwarf Jay,0.1282,,,0
+XC162534 - Hume's Leaf Warbler - Phylloscopus humei humei_039_042.wav,Hume's Warbler,0.8513,,,0
+XC162534 - Hume's Leaf Warbler - Phylloscopus humei humei_039_042.wav,Southern Scrub-Flycatcher,0.1778,,,0
+XC162535 - Hume's Leaf Warbler - Phylloscopus humei humei_000_003.wav,Eurasian Hoopoe,0.569,,,0
+XC162535 - Hume's Leaf Warbler - Phylloscopus humei humei_003_006.wav,Hume's Warbler,0.9922,,,0
+XC162535 - Hume's Leaf Warbler - Phylloscopus humei humei_006_009.wav,Little Wattlebird,0.1695,,,0
+XC162535 - Hume's Leaf Warbler - Phylloscopus humei humei_009_012.wav,Eurasian Magpie,0.2259,,,0
+XC162535 - Hume's Leaf Warbler - Phylloscopus humei humei_012_015.wav,Common Redpoll,0.1075,,,0
+XC162535 - Hume's Leaf Warbler - Phylloscopus humei humei_015_018.wav,Hume's Warbler,0.985,,,0
+XC162535 - Hume's Leaf Warbler - Phylloscopus humei humei_021_024.wav,Hume's Warbler,0.7446,,,0
+XC162535 - Hume's Leaf Warbler - Phylloscopus humei humei_024_027.wav,Hume's Warbler,0.9599,,,0
+XC162535 - Hume's Leaf Warbler - Phylloscopus humei humei_027_030.wav,Hume's Warbler,0.7267,,,0
+XC162535 - Hume's Leaf Warbler - Phylloscopus humei humei_030_033.wav,Dusky Thrush,0.177,,,0
+XC162535 - Hume's Leaf Warbler - Phylloscopus humei humei_030_033.wav,Eurasian Hoopoe,0.1452,,,0
+XC162535 - Hume's Leaf Warbler - Phylloscopus humei humei_033_036.wav,Hume's Warbler,0.9987,,,0
+XC162554 - Hume's Leaf Warbler - Phylloscopus humei humei_000_003.wav,Hume's Warbler,0.9927,,,0
+XC162554 - Hume's Leaf Warbler - Phylloscopus humei humei_003_006.wav,Hume's Warbler,0.9995,,,0
+XC162554 - Hume's Leaf Warbler - Phylloscopus humei humei_006_009.wav,Hume's Warbler,0.9854,,,0
+XC162554 - Hume's Leaf Warbler - Phylloscopus humei humei_009_012.wav,Hume's Warbler,0.8821,,,0
+XC162554 - Hume's Leaf Warbler - Phylloscopus humei humei_012_015.wav,Hume's Warbler,0.1921,,,0
+XC162554 - Hume's Leaf Warbler - Phylloscopus humei humei_015_018.wav,Hume's Warbler,0.7167,,,0
+XC162554 - Hume's Leaf Warbler - Phylloscopus humei humei_015_018.wav,Tickell's Leaf Warbler,0.5029,,,0
+XC162554 - Hume's Leaf Warbler - Phylloscopus humei humei_018_021.wav,Hume's Warbler,0.9825,,,0
+XC162554 - Hume's Leaf Warbler - Phylloscopus humei humei_021_024.wav,Hume's Warbler,0.2939,,,0
+XC162554 - Hume's Leaf Warbler - Phylloscopus humei humei_024_027.wav,Hume's Warbler,0.9901,,,0
+XC162554 - Hume's Leaf Warbler - Phylloscopus humei humei_027_030.wav,Hume's Warbler,0.9104,,,0
+XC162554 - Hume's Leaf Warbler - Phylloscopus humei humei_030_033.wav,Hume's Warbler,0.9846,,,0
+XC162554 - Hume's Leaf Warbler - Phylloscopus humei humei_036_039.wav,Hume's Warbler,0.9355,,,0
+XC162554 - Hume's Leaf Warbler - Phylloscopus humei humei_039_042.wav,Common Rosefinch,0.1914,,,0
+XC162554 - Hume's Leaf Warbler - Phylloscopus humei humei_042_045.wav,Hume's Warbler,0.9824,,,0
+XC162554 - Hume's Leaf Warbler - Phylloscopus humei humei_045_048.wav,Ring Ouzel,0.206,,,0
+XC162554 - Hume's Leaf Warbler - Phylloscopus humei humei_048_051.wav,Hume's Warbler,0.9662,,,0
+XC162554 - Hume's Leaf Warbler - Phylloscopus humei humei_051_054.wav,Common Rosefinch,0.2289,,,0
+XC162554 - Hume's Leaf Warbler - Phylloscopus humei humei_051_054.wav,Buff-cheeked Greenlet,0.1017,,,0
+XC162554 - Hume's Leaf Warbler - Phylloscopus humei humei_054_057.wav,Hume's Warbler,0.8162,,,0
+XC162554 - Hume's Leaf Warbler - Phylloscopus humei humei_057_060.wav,Canada Jay,0.191,,,0
+XC162554 - Hume's Leaf Warbler - Phylloscopus humei humei_057_060.wav,White-eared Sibia,0.11,,,0
+XC165218 - Hume's Leaf Warbler - Phylloscopus humei humei_003_006.wav,Hume's Warbler,0.9507,,,0
+XC165218 - Hume's Leaf Warbler - Phylloscopus humei humei_006_009.wav,Hume's Warbler,0.9678,,,0
+XC165218 - Hume's Leaf Warbler - Phylloscopus humei humei_009_012.wav,Hume's Warbler,0.9775,,,0
+XC165218 - Hume's Leaf Warbler - Phylloscopus humei humei_012_015.wav,Hume's Warbler,0.9447,,,0
+XC180188 - Hume's Leaf Warbler - Phylloscopus humei humei_000_003.wav,Hume's Warbler,0.8545,,,-1
+XC180188 - Hume's Leaf Warbler - Phylloscopus humei humei_003_006.wav,Hooded Siskin,0.2239,,,0
+XC180188 - Hume's Leaf Warbler - Phylloscopus humei humei_003_006.wav,Hume's Warbler,0.1022,,,0
+XC180188 - Hume's Leaf Warbler - Phylloscopus humei humei_006_009.wav,Hume's Warbler,0.706,,,0
+XC180188 - Hume's Leaf Warbler - Phylloscopus humei humei_009_012.wav,Hume's Warbler,0.9046,,,0
+XC180188 - Hume's Leaf Warbler - Phylloscopus humei humei_012_015.wav,Hume's Warbler,0.5571,,,0
+XC180188 - Hume's Leaf Warbler - Phylloscopus humei humei_012_015.wav,Patagonian Sierra Finch,0.2484,,,0
+XC180188 - Hume's Leaf Warbler - Phylloscopus humei humei_015_018.wav,Patagonian Sierra Finch,0.7223,,,0
+XC180188 - Hume's Leaf Warbler - Phylloscopus humei humei_015_018.wav,Hume's Warbler,0.5329,,,0
+XC180188 - Hume's Leaf Warbler - Phylloscopus humei humei_018_021.wav,Hume's Warbler,0.7208,,,0
+XC180188 - Hume's Leaf Warbler - Phylloscopus humei humei_018_021.wav,Patagonian Sierra Finch,0.3523,,,0
+XC180188 - Hume's Leaf Warbler - Phylloscopus humei humei_024_027.wav,Hume's Warbler,0.7671,,,0
+XC180188 - Hume's Leaf Warbler - Phylloscopus humei humei_024_027.wav,Patagonian Sierra Finch,0.206,,,0
+XC180188 - Hume's Leaf Warbler - Phylloscopus humei humei_027_030.wav,Patagonian Sierra Finch,0.5968,,,0
+XC180188 - Hume's Leaf Warbler - Phylloscopus humei humei_027_030.wav,Hume's Warbler,0.1721,,,0
+XC180188 - Hume's Leaf Warbler - Phylloscopus humei humei_030_033.wav,Hume's Warbler,0.8531,,,0
+XC180188 - Hume's Leaf Warbler - Phylloscopus humei humei_030_033.wav,Ultramarine Flycatcher,0.1139,,,0
+XC180188 - Hume's Leaf Warbler - Phylloscopus humei humei_033_036.wav,Hume's Warbler,0.4848,,,0
+XC180188 - Hume's Leaf Warbler - Phylloscopus humei humei_033_036.wav,Palestine Sunbird,0.2148,,,0
+XC180188 - Hume's Leaf Warbler - Phylloscopus humei humei_033_036.wav,Patagonian Sierra Finch,0.1126,,,0
+XC180338 - Hume's Leaf Warbler - Phylloscopus humei humei_000_003.wav,Hume's Warbler,0.9999,,,0
+XC180338 - Hume's Leaf Warbler - Phylloscopus humei humei_003_006.wav,Hume's Warbler,0.8589,,,0
+XC180338 - Hume's Leaf Warbler - Phylloscopus humei humei_006_009.wav,Hume's Warbler,0.9999,,,0
+XC180338 - Hume's Leaf Warbler - Phylloscopus humei humei_012_015.wav,Hume's Warbler,0.7779,,,0
+XC180338 - Hume's Leaf Warbler - Phylloscopus humei humei_015_018.wav,Hume's Warbler,0.9471,,,0
+XC180338 - Hume's Leaf Warbler - Phylloscopus humei humei_018_021.wav,Hume's Warbler,0.4685,,,0
+XC180338 - Hume's Leaf Warbler - Phylloscopus humei humei_021_024.wav,Hume's Warbler,0.9479,,,0
+XC180338 - Hume's Leaf Warbler - Phylloscopus humei humei_021_024.wav,Black Phoebe,0.1006,,,0
+XC180338 - Hume's Leaf Warbler - Phylloscopus humei humei_024_027.wav,Hume's Warbler,0.9041,,,0
+XC180338 - Hume's Leaf Warbler - Phylloscopus humei humei_024_027.wav,Warbling White-eye,0.1139,,,0
+XC180338 - Hume's Leaf Warbler - Phylloscopus humei humei_024_027.wav,Black Phoebe,0.1111,,,0
+XC180338 - Hume's Leaf Warbler - Phylloscopus humei humei_027_030.wav,Hume's Warbler,0.998,,,0
+XC180338 - Hume's Leaf Warbler - Phylloscopus humei humei_027_030.wav,Warbling White-eye,0.1636,,,0
+XC180338 - Hume's Leaf Warbler - Phylloscopus humei humei_030_033.wav,Hume's Warbler,0.9968,,,0
+XC180338 - Hume's Leaf Warbler - Phylloscopus humei humei_033_036.wav,Hume's Warbler,0.7571,,,0
+XC180338 - Hume's Leaf Warbler - Phylloscopus humei humei_036_039.wav,Hume's Warbler,0.658,,,-1
+XC180338 - Hume's Leaf Warbler - Phylloscopus humei humei_039_042.wav,Redwing,0.7988,,,0
+XC180338 - Hume's Leaf Warbler - Phylloscopus humei humei_039_042.wav,Hume's Warbler,0.2393,,,0
+XC180338 - Hume's Leaf Warbler - Phylloscopus humei humei_042_045.wav,Hume's Warbler,0.9955,,,0
+XC180338 - Hume's Leaf Warbler - Phylloscopus humei humei_045_048.wav,Hume's Warbler,0.9878,,,0
+XC180338 - Hume's Leaf Warbler - Phylloscopus humei humei_048_051.wav,Hume's Warbler,0.9976,,,0
+XC180338 - Hume's Leaf Warbler - Phylloscopus humei humei_051_054.wav,Hume's Warbler,0.9869,,,0
+XC180338 - Hume's Leaf Warbler - Phylloscopus humei humei_054_057.wav,Hume's Warbler,0.9718,,,0
+XC180338 - Hume's Leaf Warbler - Phylloscopus humei humei_057_060.wav,Hume's Warbler,0.9986,,,0
+XC180338 - Hume's Leaf Warbler - Phylloscopus humei humei_060_063.wav,Hume's Warbler,0.9341,,,0
+XC180338 - Hume's Leaf Warbler - Phylloscopus humei humei_060_063.wav,Warbling White-eye,0.3208,,,0
+XC180338 - Hume's Leaf Warbler - Phylloscopus humei humei_063_066.wav,Whitehead,0.1473,,,0
+XC180338 - Hume's Leaf Warbler - Phylloscopus humei humei_066_069.wav,Hume's Warbler,0.9788,,,0
+XC180338 - Hume's Leaf Warbler - Phylloscopus humei humei_069_072.wav,Hume's Warbler,0.9119,,,0
+XC180338 - Hume's Leaf Warbler - Phylloscopus humei humei_069_072.wav,Warbling White-eye,0.4528,,,0
+XC180338 - Hume's Leaf Warbler - Phylloscopus humei humei_069_072.wav,Swinhoe's White-eye,0.191,,,0
+XC180338 - Hume's Leaf Warbler - Phylloscopus humei humei_075_078.wav,Hume's Warbler,0.3158,,,-1
+XC180338 - Hume's Leaf Warbler - Phylloscopus humei humei_078_081.wav,Hume's Warbler,0.9002,,,0
+XC180338 - Hume's Leaf Warbler - Phylloscopus humei humei_081_084.wav,Hume's Warbler,0.4129,,,0
+XC180338 - Hume's Leaf Warbler - Phylloscopus humei humei_081_084.wav,Two-barred Warbler,0.3176,,,0
+XC180338 - Hume's Leaf Warbler - Phylloscopus humei humei_084_087.wav,Warbling White-eye,0.2833,,,0
+XC180338 - Hume's Leaf Warbler - Phylloscopus humei humei_084_087.wav,Hume's Warbler,0.1764,,,0
+XC180338 - Hume's Leaf Warbler - Phylloscopus humei humei_087_090.wav,Warbling White-eye,0.3426,,,0
+XC180338 - Hume's Leaf Warbler - Phylloscopus humei humei_087_090.wav,Hume's Warbler,0.1382,,,0
+XC180338 - Hume's Leaf Warbler - Phylloscopus humei humei_090_093.wav,Hume's Warbler,0.9986,,,0
+XC180338 - Hume's Leaf Warbler - Phylloscopus humei humei_093_096.wav,Hume's Warbler,0.9876,,,0
+XC180338 - Hume's Leaf Warbler - Phylloscopus humei humei_093_096.wav,Redwing,0.118,,,0
+XC180338 - Hume's Leaf Warbler - Phylloscopus humei humei_096_099.wav,Hume's Warbler,0.8714,,,0
+XC180338 - Hume's Leaf Warbler - Phylloscopus humei humei_099_102.wav,Hume's Warbler,0.9542,,,0
+XC180338 - Hume's Leaf Warbler - Phylloscopus humei humei_099_102.wav,Warbling White-eye,0.1055,,,0
+XC180338 - Hume's Leaf Warbler - Phylloscopus humei humei_102_105.wav,Hume's Warbler,0.2425,,,0
+XC180338 - Hume's Leaf Warbler - Phylloscopus humei humei_108_111.wav,Hume's Warbler,0.7706,,,0
+XC180338 - Hume's Leaf Warbler - Phylloscopus humei humei_108_111.wav,Warbling White-eye,0.1392,,,0
+XC180338 - Hume's Leaf Warbler - Phylloscopus humei humei_111_114.wav,Hume's Warbler,0.3038,,,0
+XC180338 - Hume's Leaf Warbler - Phylloscopus humei humei_111_114.wav,Black Phoebe,0.1896,,,0
+XC22699 - Hume's Leaf Warbler - Phylloscopus humei humei_003_006.wav,Corn Bunting,0.3543,,,0
+XC22699 - Hume's Leaf Warbler - Phylloscopus humei humei_003_006.wav,Iberian Gray Shrike,0.1268,,,0
+XC22699 - Hume's Leaf Warbler - Phylloscopus humei humei_003_006.wav,European Stonechat,0.1218,,,0
+XC26659 - Hume's Leaf Warbler - Phylloscopus humei humei_000_003.wav,Hume's Warbler,0.7036,,,0
+XC298104 - Hume's Leaf Warbler - Phylloscopus humei humei_000_003.wav,Hume's Warbler,0.9958,,,-1
+XC298104 - Hume's Leaf Warbler - Phylloscopus humei humei_003_006.wav,Hume's Warbler,0.996,,,0
+XC298104 - Hume's Leaf Warbler - Phylloscopus humei humei_006_009.wav,Cedar Waxwing,0.357,,,-1
+XC298104 - Hume's Leaf Warbler - Phylloscopus humei humei_009_012.wav,Verdin,0.5288,,,-1
+XC30130 - Hume's Leaf Warbler - Phylloscopus humei humei_000_003.wav,Hume's Warbler,0.5638,,,0
+XC30130 - Hume's Leaf Warbler - Phylloscopus humei humei_000_003.wav,Common Chiffchaff,0.2181,,,0
+XC30130 - Hume's Leaf Warbler - Phylloscopus humei humei_003_006.wav,Bran-colored Flycatcher,0.2271,,,0
+XC30130 - Hume's Leaf Warbler - Phylloscopus humei humei_003_006.wav,Hume's Warbler,0.1808,,,0
+XC30130 - Hume's Leaf Warbler - Phylloscopus humei humei_006_009.wav,Eurasian Eagle-Owl,0.1167,,,0
+XC30130 - Hume's Leaf Warbler - Phylloscopus humei humei_009_012.wav,Hume's Warbler,0.1998,,,0
+XC30130 - Hume's Leaf Warbler - Phylloscopus humei humei_009_012.wav,Bran-colored Flycatcher,0.1081,,,0
+XC30130 - Hume's Leaf Warbler - Phylloscopus humei humei_012_015.wav,Hawfinch,0.3574,,,0
+XC30130 - Hume's Leaf Warbler - Phylloscopus humei humei_012_015.wav,Dunnock,0.1007,,,0
+XC30130 - Hume's Leaf Warbler - Phylloscopus humei humei_015_018.wav,Hawfinch,0.187,,,0
+XC30130 - Hume's Leaf Warbler - Phylloscopus humei humei_015_018.wav,Dunnock,0.1635,,,0
+XC30130 - Hume's Leaf Warbler - Phylloscopus humei humei_015_018.wav,Straight-billed Earthcreeper,0.102,,,0
+XC30130 - Hume's Leaf Warbler - Phylloscopus humei humei_018_021.wav,Common Chiffchaff,0.1022,,,0
+XC30130 - Hume's Leaf Warbler - Phylloscopus humei humei_021_024.wav,Common Chiffchaff,0.1314,,,0
+XC30130 - Hume's Leaf Warbler - Phylloscopus humei humei_021_024.wav,Hume's Warbler,0.1146,,,0
+XC30130 - Hume's Leaf Warbler - Phylloscopus humei humei_024_027.wav,Pacific-slope Flycatcher,0.2996,,,0
+XC30130 - Hume's Leaf Warbler - Phylloscopus humei humei_024_027.wav,Hume's Warbler,0.2996,,,0
+XC30130 - Hume's Leaf Warbler - Phylloscopus humei humei_024_027.wav,Yellow-browed Warbler,0.1018,,,0
+XC30130 - Hume's Leaf Warbler - Phylloscopus humei humei_027_030.wav,Yellow-browed Warbler,0.3122,,,-1
+XC30130 - Hume's Leaf Warbler - Phylloscopus humei humei_027_030.wav,Hume's Warbler,0.1558,,,-1
+XC30130 - Hume's Leaf Warbler - Phylloscopus humei humei_027_030.wav,Hawfinch,0.1111,,,-1
+XC304209 - Hume's Leaf Warbler - Phylloscopus humei humei_000_003.wav,Hume's Warbler,0.952,,,0
+XC304209 - Hume's Leaf Warbler - Phylloscopus humei humei_003_006.wav,Hume's Warbler,0.3587,,,0
+XC304209 - Hume's Leaf Warbler - Phylloscopus humei humei_006_009.wav,Hume's Warbler,0.4925,,,0
+XC304209 - Hume's Leaf Warbler - Phylloscopus humei humei_009_012.wav,Hume's Warbler,0.2332,,,0
+XC304209 - Hume's Leaf Warbler - Phylloscopus humei humei_012_015.wav,Hume's Warbler,0.6464,,,0
+XC304209 - Hume's Leaf Warbler - Phylloscopus humei humei_015_018.wav,Hume's Warbler,0.6928,,,0
+XC304209 - Hume's Leaf Warbler - Phylloscopus humei humei_018_021.wav,Hume's Warbler,0.6831,,,0
+XC304209 - Hume's Leaf Warbler - Phylloscopus humei humei_024_027.wav,Hume's Warbler,0.6014,,,0
+XC304209 - Hume's Leaf Warbler - Phylloscopus humei humei_027_030.wav,Hume's Warbler,0.9262,,,0
+XC304209 - Hume's Leaf Warbler - Phylloscopus humei humei_030_033.wav,Hume's Warbler,0.5565,,,0
+XC304209 - Hume's Leaf Warbler - Phylloscopus humei humei_033_036.wav,Hume's Warbler,0.9679,,,0
+XC304209 - Hume's Leaf Warbler - Phylloscopus humei humei_039_042.wav,Hume's Warbler,0.1183,,,0
+XC304209 - Hume's Leaf Warbler - Phylloscopus humei humei_042_045.wav,Hume's Warbler,0.5687,,,0
+XC304209 - Hume's Leaf Warbler - Phylloscopus humei humei_045_048.wav,Western Crowned Warbler,0.2159,,,0
+XC304209 - Hume's Leaf Warbler - Phylloscopus humei humei_045_048.wav,Gray Bushchat,0.1989,,,0
+XC304209 - Hume's Leaf Warbler - Phylloscopus humei humei_045_048.wav,Blyth's Leaf Warbler,0.1553,,,0
+XC304209 - Hume's Leaf Warbler - Phylloscopus humei humei_051_054.wav,Blyth's Leaf Warbler,0.2026,,,0
+XC304209 - Hume's Leaf Warbler - Phylloscopus humei humei_051_054.wav,Western Crowned Warbler,0.1203,,,0
+XC304209 - Hume's Leaf Warbler - Phylloscopus humei humei_057_060.wav,Hume's Warbler,0.4924,,,0
+XC304209 - Hume's Leaf Warbler - Phylloscopus humei humei_060_063.wav,Hume's Warbler,0.8045,,,0
+XC304209 - Hume's Leaf Warbler - Phylloscopus humei humei_060_063.wav,Warbling White-eye,0.6079,,,0
+XC304209 - Hume's Leaf Warbler - Phylloscopus humei humei_063_066.wav,Hume's Warbler,0.5941,,,0
+XC304209 - Hume's Leaf Warbler - Phylloscopus humei humei_066_069.wav,Blyth's Leaf Warbler,0.1815,,,0
+XC304209 - Hume's Leaf Warbler - Phylloscopus humei humei_069_072.wav,Hume's Warbler,0.9098,,,0
+XC304209 - Hume's Leaf Warbler - Phylloscopus humei humei_072_075.wav,Blyth's Leaf Warbler,0.1087,,,0
+XC304209 - Hume's Leaf Warbler - Phylloscopus humei humei_075_078.wav,Hume's Warbler,0.2633,,,0
+XC304209 - Hume's Leaf Warbler - Phylloscopus humei humei_075_078.wav,Green-backed Tit,0.16,,,0
+XC304209 - Hume's Leaf Warbler - Phylloscopus humei humei_078_081.wav,Hume's Warbler,0.215,,,0
+XC304209 - Hume's Leaf Warbler - Phylloscopus humei humei_078_081.wav,Warbling White-eye,0.1818,,,0
+XC304209 - Hume's Leaf Warbler - Phylloscopus humei humei_081_084.wav,Warbling White-eye,0.2624,,,0
+XC304209 - Hume's Leaf Warbler - Phylloscopus humei humei_081_084.wav,Hume's Warbler,0.131,,,0
+XC304209 - Hume's Leaf Warbler - Phylloscopus humei humei_084_087.wav,Hume's Warbler,0.1895,,,0
+XC304209 - Hume's Leaf Warbler - Phylloscopus humei humei_084_087.wav,Black Bulbul,0.1309,,,0
+XC304209 - Hume's Leaf Warbler - Phylloscopus humei humei_090_093.wav,Black Bulbul,0.3165,,,1
+XC347754 - Hume's Leaf Warbler - Phylloscopus humei humei_000_003.wav,Purple-rumped Sunbird,0.2063,,,0
+XC347754 - Hume's Leaf Warbler - Phylloscopus humei humei_000_003.wav,Purple Sunbird,0.1403,,,0
+XC347754 - Hume's Leaf Warbler - Phylloscopus humei humei_003_006.wav,Purple-rumped Sunbird,0.1429,,,0
+XC347754 - Hume's Leaf Warbler - Phylloscopus humei humei_009_012.wav,Purple-rumped Sunbird,0.1787,,,0
+XC347754 - Hume's Leaf Warbler - Phylloscopus humei humei_012_015.wav,Purple-rumped Sunbird,0.2494,,,0
+XC347754 - Hume's Leaf Warbler - Phylloscopus humei humei_015_018.wav,Loten's Sunbird,0.1868,,,0
+XC347754 - Hume's Leaf Warbler - Phylloscopus humei humei_018_021.wav,Hume's Warbler,0.1403,,,0
+XC347754 - Hume's Leaf Warbler - Phylloscopus humei humei_021_024.wav,Common Tern,0.2271,,,0
+XC347754 - Hume's Leaf Warbler - Phylloscopus humei humei_024_027.wav,Purple-rumped Sunbird,0.1746,,,0
+XC347754 - Hume's Leaf Warbler - Phylloscopus humei humei_027_030.wav,Hume's Warbler,0.4627,,,0
+XC351688 - Hume's Leaf Warbler - Phylloscopus humei humei_000_003.wav,Hume's Warbler,0.8972,,,0
+XC351688 - Hume's Leaf Warbler - Phylloscopus humei humei_003_006.wav,Hume's Warbler,0.8871,,,-1
+XC351688 - Hume's Leaf Warbler - Phylloscopus humei humei_006_009.wav,Hume's Warbler,0.9718,,,-1
+XC351688 - Hume's Leaf Warbler - Phylloscopus humei humei_009_012.wav,Hume's Warbler,0.9882,,,-1
+XC414415 - Hume's Leaf Warbler - Phylloscopus humei humei_000_003.wav,Hume's Warbler,0.9882,,,0
+XC414415 - Hume's Leaf Warbler - Phylloscopus humei humei_003_006.wav,Hume's Warbler,0.2416,,,0
+XC414415 - Hume's Leaf Warbler - Phylloscopus humei humei_006_009.wav,Hume's Warbler,0.1254,,,0
+XC414415 - Hume's Leaf Warbler - Phylloscopus humei humei_009_012.wav,Hume's Warbler,0.7931,,,0
+XC414415 - Hume's Leaf Warbler - Phylloscopus humei humei_009_012.wav,Himalayan Bluetail,0.1047,,,0
+XC414415 - Hume's Leaf Warbler - Phylloscopus humei humei_012_015.wav,Hume's Warbler,0.5583,,,0
+XC414415 - Hume's Leaf Warbler - Phylloscopus humei humei_015_018.wav,Hume's Warbler,0.957,,,0
+XC414415 - Hume's Leaf Warbler - Phylloscopus humei humei_015_018.wav,Costa's Hummingbird,0.1424,,,0
+XC414415 - Hume's Leaf Warbler - Phylloscopus humei humei_021_024.wav,Little Bustard,0.1254,,,0
+XC414415 - Hume's Leaf Warbler - Phylloscopus humei humei_024_027.wav,Kamchatka Leaf Warbler,0.3713,,,0
+XC414415 - Hume's Leaf Warbler - Phylloscopus humei humei_024_027.wav,Striolated Bunting,0.216,,,0
+XC414415 - Hume's Leaf Warbler - Phylloscopus humei humei_024_027.wav,Two-barred Warbler,0.1937,,,0
+XC414415 - Hume's Leaf Warbler - Phylloscopus humei humei_027_030.wav,Hume's Warbler,0.266,,,0
+XC414415 - Hume's Leaf Warbler - Phylloscopus humei humei_030_033.wav,Hume's Warbler,0.262,,,0
+XC414415 - Hume's Leaf Warbler - Phylloscopus humei humei_033_036.wav,Two-barred Warbler,0.1958,,,0
+XC414415 - Hume's Leaf Warbler - Phylloscopus humei humei_036_039.wav,Two-barred Warbler,0.3888,,,0
+XC414415 - Hume's Leaf Warbler - Phylloscopus humei humei_036_039.wav,Hume's Warbler,0.355,,,0
+XC414415 - Hume's Leaf Warbler - Phylloscopus humei humei_039_042.wav,Hume's Warbler,0.9802,,,0
+XC414416 - Hume's Leaf Warbler - Phylloscopus humei humei_000_003.wav,Hume's Warbler,0.98,,,0
+XC414416 - Hume's Leaf Warbler - Phylloscopus humei humei_006_009.wav,Costa's Hummingbird,0.1904,,,0
+XC414416 - Hume's Leaf Warbler - Phylloscopus humei humei_006_009.wav,Hume's Warbler,0.1223,,,0
+XC414416 - Hume's Leaf Warbler - Phylloscopus humei humei_009_012.wav,Redwing,0.9268,,,0
+XC414416 - Hume's Leaf Warbler - Phylloscopus humei humei_015_018.wav,Hume's Warbler,0.9879,,,0
+XC414416 - Hume's Leaf Warbler - Phylloscopus humei humei_024_027.wav,Hume's Warbler,0.3991,,,0
+XC414416 - Hume's Leaf Warbler - Phylloscopus humei humei_027_030.wav,Hume's Warbler,0.897,,,0
+XC414416 - Hume's Leaf Warbler - Phylloscopus humei humei_030_033.wav,Hume's Warbler,0.8357,,,-1
+XC414416 - Hume's Leaf Warbler - Phylloscopus humei humei_033_036.wav,Hume's Warbler,0.6679,,,0
+XC414416 - Hume's Leaf Warbler - Phylloscopus humei humei_036_039.wav,Hume's Warbler,0.9832,,,-1
+XC414417 - Hume's Leaf Warbler - Phylloscopus humei humei_000_003.wav,Hume's Warbler,0.9993,,,0
+XC414417 - Hume's Leaf Warbler - Phylloscopus humei humei_009_012.wav,Hume's Warbler,0.9343,,,-1
+XC414467 - Hume's Leaf Warbler - Phylloscopus humei humei_000_003.wav,Hume's Warbler,0.9607,,,0
+XC414467 - Hume's Leaf Warbler - Phylloscopus humei humei_003_006.wav,Hume's Warbler,0.959,,,0
+XC414467 - Hume's Leaf Warbler - Phylloscopus humei humei_006_009.wav,Hume's Warbler,0.9997,,,0
+XC414467 - Hume's Leaf Warbler - Phylloscopus humei humei_012_015.wav,Hume's Warbler,0.1765,,,-1
+XC414467 - Hume's Leaf Warbler - Phylloscopus humei humei_015_018.wav,Hume's Warbler,0.7393,,,-1
+XC414467 - Hume's Leaf Warbler - Phylloscopus humei humei_018_021.wav,Hume's Warbler,0.9301,,,0
+XC414467 - Hume's Leaf Warbler - Phylloscopus humei humei_021_024.wav,Hume's Warbler,0.9943,,,0
+XC414467 - Hume's Leaf Warbler - Phylloscopus humei humei_021_024.wav,Buff-barred Warbler,0.103,,,0
+XC414467 - Hume's Leaf Warbler - Phylloscopus humei humei_024_027.wav,Hume's Warbler,0.8931,,,0
+XC414467 - Hume's Leaf Warbler - Phylloscopus humei humei_027_030.wav,Hume's Warbler,0.9998,,,0
+XC414467 - Hume's Leaf Warbler - Phylloscopus humei humei_030_033.wav,Hume's Warbler,0.9288,,,0
+XC414467 - Hume's Leaf Warbler - Phylloscopus humei humei_033_036.wav,Hume's Warbler,0.9964,,,0
+XC414467 - Hume's Leaf Warbler - Phylloscopus humei humei_036_039.wav,Hume's Warbler,0.7888,,,0
+XC414467 - Hume's Leaf Warbler - Phylloscopus humei humei_039_042.wav,Hume's Warbler,0.9984,,,0
+XC414467 - Hume's Leaf Warbler - Phylloscopus humei humei_039_042.wav,Buff-barred Warbler,0.2679,,,0
+XC414467 - Hume's Leaf Warbler - Phylloscopus humei humei_042_045.wav,Hume's Warbler,0.9934,,,0
+XC414467 - Hume's Leaf Warbler - Phylloscopus humei humei_045_048.wav,Hume's Warbler,0.7856,,,0
+XC414467 - Hume's Leaf Warbler - Phylloscopus humei humei_048_051.wav,Hume's Warbler,0.997,,,0
+XC414467 - Hume's Leaf Warbler - Phylloscopus humei humei_051_054.wav,Hume's Warbler,0.9019,,,0
+XC414467 - Hume's Leaf Warbler - Phylloscopus humei humei_054_057.wav,Hume's Warbler,0.9978,,,0
+XC414467 - Hume's Leaf Warbler - Phylloscopus humei humei_057_060.wav,Hume's Warbler,0.7424,,,0
+XC414467 - Hume's Leaf Warbler - Phylloscopus humei humei_060_063.wav,Hume's Warbler,0.9862,,,0
+XC414467 - Hume's Leaf Warbler - Phylloscopus humei humei_063_066.wav,Hume's Warbler,0.9998,,,0
+XC414467 - Hume's Leaf Warbler - Phylloscopus humei humei_063_066.wav,Buff-barred Warbler,0.1382,,,0
+XC414467 - Hume's Leaf Warbler - Phylloscopus humei humei_066_069.wav,Hume's Warbler,0.9824,,,0
+XC414467 - Hume's Leaf Warbler - Phylloscopus humei humei_066_069.wav,Chinese Leaf Warbler,0.1941,,,0
+XC414467 - Hume's Leaf Warbler - Phylloscopus humei humei_069_072.wav,Hume's Warbler,0.9973,,,0
+XC414467 - Hume's Leaf Warbler - Phylloscopus humei humei_072_075.wav,Hume's Warbler,0.9973,,,0
+XC414467 - Hume's Leaf Warbler - Phylloscopus humei humei_072_075.wav,Buff-barred Warbler,0.8475,,,0
+XC414467 - Hume's Leaf Warbler - Phylloscopus humei humei_075_078.wav,Hume's Warbler,0.8765,,,0
+XC414467 - Hume's Leaf Warbler - Phylloscopus humei humei_078_081.wav,Hume's Warbler,0.9727,,,0
+XC414467 - Hume's Leaf Warbler - Phylloscopus humei humei_081_084.wav,Hume's Warbler,0.9994,,,0
+XC414467 - Hume's Leaf Warbler - Phylloscopus humei humei_084_087.wav,Hume's Warbler,0.7629,,,0
+XC414467 - Hume's Leaf Warbler - Phylloscopus humei humei_087_090.wav,Hume's Warbler,0.4514,,,-1
+XC43635 - Hume's Leaf Warbler - Phylloscopus humei humei_000_003.wav,Hume's Warbler,0.9976,,,0
+XC43635 - Hume's Leaf Warbler - Phylloscopus humei humei_003_006.wav,Hume's Warbler,0.8887,,,-1
+XC43636 - Hume's Leaf Warbler - Phylloscopus humei humei_000_003.wav,Hume's Warbler,0.8744,,,-1
+XC43637 - Hume's Leaf Warbler - Phylloscopus humei humei_000_003.wav,Hume's Warbler,0.2671,,,0
+XC43637 - Hume's Leaf Warbler - Phylloscopus humei humei_003_006.wav,Scarlet-throated Tanager,0.2144,,,0
+XC43637 - Hume's Leaf Warbler - Phylloscopus humei humei_006_009.wav,Hume's Warbler,0.1357,,,0
+XC43637 - Hume's Leaf Warbler - Phylloscopus humei humei_009_012.wav,Hume's Warbler,0.2094,,,0
+XC43637 - Hume's Leaf Warbler - Phylloscopus humei humei_009_012.wav,Masked Gnatcatcher,0.1157,,,0
+XC43637 - Hume's Leaf Warbler - Phylloscopus humei humei_012_015.wav,Hume's Warbler,0.7798,,,0
+XC43637 - Hume's Leaf Warbler - Phylloscopus humei humei_015_018.wav,White-winged Grosbeak,0.4504,,,0
+XC43637 - Hume's Leaf Warbler - Phylloscopus humei humei_018_021.wav,Western Bluebird,0.1982,,,-1
+XC43637 - Hume's Leaf Warbler - Phylloscopus humei humei_018_021.wav,White-breasted Nuthatch,0.1731,,,-1
+XC43637 - Hume's Leaf Warbler - Phylloscopus humei humei_018_021.wav,California Thrasher,0.1184,,,-1
+XC43637 - Hume's Leaf Warbler - Phylloscopus humei humei_021_024.wav,Hume's Warbler,0.4234,,,0
+XC43637 - Hume's Leaf Warbler - Phylloscopus humei humei_027_030.wav,Hume's Warbler,0.2875,,,0
+XC43637 - Hume's Leaf Warbler - Phylloscopus humei humei_027_030.wav,Patagonian Sierra Finch,0.1276,,,0
+XC43638 - Hume's Leaf Warbler - Phylloscopus humei humei_000_003.wav,Hume's Warbler,0.8465,,,0
+XC43638 - Hume's Leaf Warbler - Phylloscopus humei humei_000_003.wav,Chinese Thrush,0.4565,,,0
+XC43638 - Hume's Leaf Warbler - Phylloscopus humei humei_000_003.wav,Eurasian Blackbird,0.2395,,,0
+XC43638 - Hume's Leaf Warbler - Phylloscopus humei humei_003_006.wav,Crested Myna,0.2189,,,0
+XC43638 - Hume's Leaf Warbler - Phylloscopus humei humei_006_009.wav,Eurasian Golden Oriole,0.7526,,,0
+XC43638 - Hume's Leaf Warbler - Phylloscopus humei humei_009_012.wav,Rose-ringed Parakeet,0.2015,,,0
+XC43638 - Hume's Leaf Warbler - Phylloscopus humei humei_009_012.wav,Common Myna,0.1411,,,0
+XC43638 - Hume's Leaf Warbler - Phylloscopus humei humei_009_012.wav,Redwing,0.1199,,,0
+XC43638 - Hume's Leaf Warbler - Phylloscopus humei humei_012_015.wav,Iberian Magpie,0.1782,,,0
+XC43638 - Hume's Leaf Warbler - Phylloscopus humei humei_015_018.wav,Hume's Warbler,0.8977,,,0
+XC43638 - Hume's Leaf Warbler - Phylloscopus humei humei_018_021.wav,Hume's Warbler,0.1128,,,0
+XC43638 - Hume's Leaf Warbler - Phylloscopus humei humei_018_021.wav,Mauritius White-eye,0.1122,,,0
+XC43638 - Hume's Leaf Warbler - Phylloscopus humei humei_021_024.wav,Hume's Warbler,0.947,,,0
+XC43638 - Hume's Leaf Warbler - Phylloscopus humei humei_021_024.wav,Greenish Warbler,0.1172,,,0
+XC43638 - Hume's Leaf Warbler - Phylloscopus humei humei_024_027.wav,Common Myna,0.1565,,,0
+XC43638 - Hume's Leaf Warbler - Phylloscopus humei humei_027_030.wav,Hume's Warbler,0.1807,,,0
+XC43638 - Hume's Leaf Warbler - Phylloscopus humei humei_030_033.wav,Hume's Warbler,0.2006,,,0
+XC43638 - Hume's Leaf Warbler - Phylloscopus humei humei_036_039.wav,Common Myna,0.3327,,,0
+XC43638 - Hume's Leaf Warbler - Phylloscopus humei humei_036_039.wav,Jungle Myna,0.2407,,,0
+XC43638 - Hume's Leaf Warbler - Phylloscopus humei humei_039_042.wav,Eurasian Blackbird,0.2368,,,0
+XC43638 - Hume's Leaf Warbler - Phylloscopus humei humei_039_042.wav,Spotless Starling,0.102,,,0
+XC43638 - Hume's Leaf Warbler - Phylloscopus humei humei_042_045.wav,Common Myna,0.2537,,,0
+XC43638 - Hume's Leaf Warbler - Phylloscopus humei humei_042_045.wav,Olive-flanked Robin-Chat,0.1682,,,0
+XC43638 - Hume's Leaf Warbler - Phylloscopus humei humei_045_048.wav,Common Myna,0.2246,,,0
+XC43638 - Hume's Leaf Warbler - Phylloscopus humei humei_048_051.wav,Common Myna,0.246,,,0
+XC43638 - Hume's Leaf Warbler - Phylloscopus humei humei_051_054.wav,Common Myna,0.6419,,,0
+XC43638 - Hume's Leaf Warbler - Phylloscopus humei humei_051_054.wav,Jungle Myna,0.1326,,,0
+XC43638 - Hume's Leaf Warbler - Phylloscopus humei humei_060_063.wav,Common Myna,0.14,,,0
+XC43638 - Hume's Leaf Warbler - Phylloscopus humei humei_060_063.wav,Rufous Treepie,0.1184,,,0
+XC43638 - Hume's Leaf Warbler - Phylloscopus humei humei_063_066.wav,Common Myna,0.7458,,,0
+XC43638 - Hume's Leaf Warbler - Phylloscopus humei humei_063_066.wav,Jungle Myna,0.2964,,,0
+XC43638 - Hume's Leaf Warbler - Phylloscopus humei humei_066_069.wav,Common Myna,0.3234,,,0
+XC43638 - Hume's Leaf Warbler - Phylloscopus humei humei_066_069.wav,Jungle Myna,0.1524,,,0
+XC43638 - Hume's Leaf Warbler - Phylloscopus humei humei_069_072.wav,Gray-headed Tody-Flycatcher,0.2045,,,0
+XC43638 - Hume's Leaf Warbler - Phylloscopus humei humei_075_078.wav,Hume's Warbler,0.5,,,0
+XC43638 - Hume's Leaf Warbler - Phylloscopus humei humei_081_084.wav,Common Wood-Pigeon,0.1066,,,0
+XC43638 - Hume's Leaf Warbler - Phylloscopus humei humei_087_090.wav,Oriental Magpie,0.195,,,0
+XC43638 - Hume's Leaf Warbler - Phylloscopus humei humei_087_090.wav,Common Myna,0.1311,,,0
+XC43638 - Hume's Leaf Warbler - Phylloscopus humei humei_087_090.wav,Jungle Myna,0.1158,,,0
+XC43638 - Hume's Leaf Warbler - Phylloscopus humei humei_093_096.wav,Common Myna,0.2251,,,0
+XC43638 - Hume's Leaf Warbler - Phylloscopus humei humei_096_099.wav,Hume's Warbler,0.633,,,0
+XC43638 - Hume's Leaf Warbler - Phylloscopus humei humei_114_117.wav,Pied Crow,0.1883,,,0
+XC43638 - Hume's Leaf Warbler - Phylloscopus humei humei_114_117.wav,American Bullfrog,0.1139,,,0
+XC43638 - Hume's Leaf Warbler - Phylloscopus humei humei_126_129.wav,Hume's Warbler,0.6259,,,-1
+XC43659 - Hume's Leaf Warbler - Phylloscopus humei humei_000_003.wav,Hume's Warbler,0.9711,,,0
+XC43659 - Hume's Leaf Warbler - Phylloscopus humei humei_009_012.wav,Hume's Warbler,0.7618,,,0
+XC43659 - Hume's Leaf Warbler - Phylloscopus humei humei_009_012.wav,Redwing,0.1378,,,0
+XC43659 - Hume's Leaf Warbler - Phylloscopus humei humei_018_021.wav,Hume's Warbler,0.9949,,,0
+XC43659 - Hume's Leaf Warbler - Phylloscopus humei humei_021_024.wav,Common Myna,0.1919,,,-1
+XC43659 - Hume's Leaf Warbler - Phylloscopus humei humei_021_024.wav,Black Bulbul,0.1031,,,-1
+XC43659 - Hume's Leaf Warbler - Phylloscopus humei humei_024_027.wav,Hume's Warbler,0.87,,,0
+XC43659 - Hume's Leaf Warbler - Phylloscopus humei humei_033_036.wav,Hume's Warbler,0.7736,,,0
+XC43659 - Hume's Leaf Warbler - Phylloscopus humei humei_036_039.wav,Hume's Warbler,0.75,,,0
+XC43659 - Hume's Leaf Warbler - Phylloscopus humei humei_039_042.wav,European Turtle-Dove,0.18,,,0
+XC43659 - Hume's Leaf Warbler - Phylloscopus humei humei_042_045.wav,Common Wood-Pigeon,0.1513,,,0
+XC43659 - Hume's Leaf Warbler - Phylloscopus humei humei_045_048.wav,Hume's Warbler,0.9991,,,0
+XC43659 - Hume's Leaf Warbler - Phylloscopus humei humei_051_054.wav,Hume's Warbler,0.2665,,,0
+XC43659 - Hume's Leaf Warbler - Phylloscopus humei humei_054_057.wav,Hume's Warbler,0.7802,,,0
+XC43659 - Hume's Leaf Warbler - Phylloscopus humei humei_054_057.wav,Greenish Warbler,0.1748,,,0
+XC43659 - Hume's Leaf Warbler - Phylloscopus humei humei_069_072.wav,Gray Wolf,0.1124,,,0
+XC43659 - Hume's Leaf Warbler - Phylloscopus humei humei_072_075.wav,Hume's Warbler,0.848,,,0
+XC43659 - Hume's Leaf Warbler - Phylloscopus humei humei_075_078.wav,Hume's Warbler,0.9194,,,0
+XC43659 - Hume's Leaf Warbler - Phylloscopus humei humei_075_078.wav,Common Myna,0.5856,,,0
+XC43659 - Hume's Leaf Warbler - Phylloscopus humei humei_078_081.wav,Hume's Warbler,1.0,,,0
+XC43659 - Hume's Leaf Warbler - Phylloscopus humei humei_081_084.wav,Hume's Warbler,0.1876,,,0
+XC43659 - Hume's Leaf Warbler - Phylloscopus humei humei_084_087.wav,Hume's Warbler,0.974,,,0
+XC43659 - Hume's Leaf Warbler - Phylloscopus humei humei_087_090.wav,Hume's Warbler,0.9728,,,0
+XC43659 - Hume's Leaf Warbler - Phylloscopus humei humei_090_093.wav,Eurasian Collared-Dove,0.2209,,,0
+XC43659 - Hume's Leaf Warbler - Phylloscopus humei humei_093_096.wav,Hume's Warbler,0.384,,,0
+XC43659 - Hume's Leaf Warbler - Phylloscopus humei humei_093_096.wav,Greenish Warbler,0.1956,,,0
+XC43659 - Hume's Leaf Warbler - Phylloscopus humei humei_093_096.wav,Common Myna,0.1026,,,0
+XC43659 - Hume's Leaf Warbler - Phylloscopus humei humei_096_099.wav,Hume's Warbler,0.286,,,0
+XC43659 - Hume's Leaf Warbler - Phylloscopus humei humei_096_099.wav,Patagonian Sierra Finch,0.2477,,,0
+XC43659 - Hume's Leaf Warbler - Phylloscopus humei humei_099_102.wav,Hume's Warbler,0.5378,,,0
+XC43659 - Hume's Leaf Warbler - Phylloscopus humei humei_102_105.wav,Hume's Warbler,0.9239,,,0
+XC43659 - Hume's Leaf Warbler - Phylloscopus humei humei_102_105.wav,Gray-bellied Spinetail,0.1743,,,0
+XC43659 - Hume's Leaf Warbler - Phylloscopus humei humei_105_108.wav,Patagonian Sierra Finch,0.1358,,,0
+XC43659 - Hume's Leaf Warbler - Phylloscopus humei humei_105_108.wav,Dunnock,0.1067,,,0
+XC43659 - Hume's Leaf Warbler - Phylloscopus humei humei_111_114.wav,Hume's Warbler,0.623,,,0
+XC446149 - Hume's Leaf Warbler - Phylloscopus humei humei_000_003.wav,Pacific-slope Flycatcher,0.1258,,,-1
+XC446149 - Hume's Leaf Warbler - Phylloscopus humei humei_003_006.wav,Yellow-browed Warbler,0.9928,,,0
+XC446149 - Hume's Leaf Warbler - Phylloscopus humei humei_003_006.wav,Hume's Warbler,0.1183,,,0
+XC446149 - Hume's Leaf Warbler - Phylloscopus humei humei_006_009.wav,Chestnut-headed Tesia,0.664,,,0
+XC446149 - Hume's Leaf Warbler - Phylloscopus humei humei_009_012.wav,Short-toed Treecreeper,0.4796,,,0
+XC446149 - Hume's Leaf Warbler - Phylloscopus humei humei_012_015.wav,Yellow-browed Warbler,0.9766,,,0
+XC446149 - Hume's Leaf Warbler - Phylloscopus humei humei_015_018.wav,Hawfinch,0.449,,,0
+XC446149 - Hume's Leaf Warbler - Phylloscopus humei humei_015_018.wav,Short-toed Treecreeper,0.1696,,,0
+XC446149 - Hume's Leaf Warbler - Phylloscopus humei humei_015_018.wav,Crested Tit,0.1205,,,0
+XC446149 - Hume's Leaf Warbler - Phylloscopus humei humei_018_021.wav,Hume's Warbler,0.9901,,,0
+XC446149 - Hume's Leaf Warbler - Phylloscopus humei humei_018_021.wav,Yellow-browed Warbler,0.3214,,,0
+XC446149 - Hume's Leaf Warbler - Phylloscopus humei humei_021_024.wav,Hume's Warbler,0.9906,,,0
+XC446149 - Hume's Leaf Warbler - Phylloscopus humei humei_024_027.wav,Hume's Warbler,0.9969,,,0
+XC446149 - Hume's Leaf Warbler - Phylloscopus humei humei_027_030.wav,Hume's Warbler,0.9969,,,0
+XC446149 - Hume's Leaf Warbler - Phylloscopus humei humei_030_033.wav,Hume's Warbler,0.9978,,,0
+XC446149 - Hume's Leaf Warbler - Phylloscopus humei humei_033_036.wav,Hume's Warbler,0.9973,,,0
+XC446149 - Hume's Leaf Warbler - Phylloscopus humei humei_036_039.wav,Hume's Warbler,0.9919,,,0
+XC446149 - Hume's Leaf Warbler - Phylloscopus humei humei_039_042.wav,Hume's Warbler,0.9837,,,0
+XC446149 - Hume's Leaf Warbler - Phylloscopus humei humei_042_045.wav,Hume's Warbler,0.9855,,,-1
+XC450986 - Hume's Leaf Warbler - Phylloscopus humei humei_000_003.wav,Hume's Warbler,0.9973,,,0
+XC450986 - Hume's Leaf Warbler - Phylloscopus humei humei_003_006.wav,Hume's Warbler,0.8993,,,0
+XC450986 - Hume's Leaf Warbler - Phylloscopus humei humei_006_009.wav,Hume's Warbler,0.961,,,0
+XC450986 - Hume's Leaf Warbler - Phylloscopus humei humei_006_009.wav,Warbling White-eye,0.1106,,,0
+XC450986 - Hume's Leaf Warbler - Phylloscopus humei humei_012_015.wav,Hume's Warbler,0.5365,,,0
+XC450986 - Hume's Leaf Warbler - Phylloscopus humei humei_012_015.wav,Greenish Warbler,0.2233,,,0
+XC450986 - Hume's Leaf Warbler - Phylloscopus humei humei_015_018.wav,Hume's Warbler,0.58,,,0
+XC450986 - Hume's Leaf Warbler - Phylloscopus humei humei_015_018.wav,Eastern Crowned Warbler,0.1101,,,0
+XC450986 - Hume's Leaf Warbler - Phylloscopus humei humei_018_021.wav,Hume's Warbler,0.9863,,,0
+XC450986 - Hume's Leaf Warbler - Phylloscopus humei humei_021_024.wav,Hume's Warbler,0.8374,,,0
+XC450986 - Hume's Leaf Warbler - Phylloscopus humei humei_024_027.wav,Hume's Warbler,0.9684,,,0
+XC450986 - Hume's Leaf Warbler - Phylloscopus humei humei_027_030.wav,Hume's Warbler,0.4904,,,-1
+XC450986 - Hume's Leaf Warbler - Phylloscopus humei humei_027_030.wav,Yellow-bellied Fairy-Fantail,0.3277,,,-1
+XC450989 - Hume's Leaf Warbler - Phylloscopus humei humei_006_009.wav,Yellow-breasted Brushfinch,0.1421,,,0
+XC450989 - Hume's Leaf Warbler - Phylloscopus humei humei_009_012.wav,Hume's Warbler,0.8411,,,0
+XC460150 - Hume's Leaf Warbler - Phylloscopus humei humei_000_003.wav,Hume's Warbler,0.9914,,,0
+XC460150 - Hume's Leaf Warbler - Phylloscopus humei humei_003_006.wav,Hume's Warbler,0.6182,,,0
+XC460150 - Hume's Leaf Warbler - Phylloscopus humei humei_006_009.wav,Northern Gray-headed Sparrow,0.1065,,,1
+XC460283 - Hume's Leaf Warbler - Phylloscopus humei humei_000_003.wav,Hume's Warbler,0.9931,,,0
+XC460283 - Hume's Leaf Warbler - Phylloscopus humei humei_003_006.wav,Hume's Warbler,0.9793,,,0
+XC460283 - Hume's Leaf Warbler - Phylloscopus humei humei_009_012.wav,Hume's Warbler,0.9187,,,0
+XC460283 - Hume's Leaf Warbler - Phylloscopus humei humei_012_015.wav,Hume's Warbler,0.9723,,,0
+XC472913 - Hume's Leaf Warbler - Phylloscopus humei humei_000_003.wav,Hume's Warbler,0.9718,,,0
+XC472913 - Hume's Leaf Warbler - Phylloscopus humei humei_003_006.wav,Hume's Warbler,0.7519,,,-1
+XC472913 - Hume's Leaf Warbler - Phylloscopus humei humei_006_009.wav,Hume's Warbler,0.8838,,,0
+XC472913 - Hume's Leaf Warbler - Phylloscopus humei humei_009_012.wav,Hume's Warbler,0.9406,,,0
+XC472913 - Hume's Leaf Warbler - Phylloscopus humei humei_012_015.wav,Hume's Warbler,0.8416,,,0
+XC472913 - Hume's Leaf Warbler - Phylloscopus humei humei_015_018.wav,Hume's Warbler,0.8456,,,-1
+XC472914 - Hume's Leaf Warbler - Phylloscopus humei humei_000_003.wav,Hume's Warbler,0.9984,,,0
+XC472914 - Hume's Leaf Warbler - Phylloscopus humei humei_003_006.wav,Hume's Warbler,0.9985,,,0
+XC472914 - Hume's Leaf Warbler - Phylloscopus humei humei_006_009.wav,Hume's Warbler,0.9553,,,0
+XC472914 - Hume's Leaf Warbler - Phylloscopus humei humei_009_012.wav,Hume's Warbler,0.9913,,,0
+XC472914 - Hume's Leaf Warbler - Phylloscopus humei humei_012_015.wav,Hume's Warbler,0.8728,,,-1
+XC472914 - Hume's Leaf Warbler - Phylloscopus humei humei_012_015.wav,Indian White-eye,0.3145,,,-1
+XC472914 - Hume's Leaf Warbler - Phylloscopus humei humei_012_015.wav,Green-backed Tit,0.1082,,,-1
+XC472914 - Hume's Leaf Warbler - Phylloscopus humei humei_015_018.wav,Bearded Reedling,0.2617,,,-1
+XC472914 - Hume's Leaf Warbler - Phylloscopus humei humei_015_018.wav,Hume's Warbler,0.1485,,,-1
+XC472914 - Hume's Leaf Warbler - Phylloscopus humei humei_015_018.wav,Spectacled Parrotlet,0.1361,,,-1
+XC472914 - Hume's Leaf Warbler - Phylloscopus humei humei_021_024.wav,Hume's Warbler,0.999,,,0
+XC472914 - Hume's Leaf Warbler - Phylloscopus humei humei_021_024.wav,White-bellied Redstart,0.6943,,,0
+XC472914 - Hume's Leaf Warbler - Phylloscopus humei humei_021_024.wav,Himalayan Bluetail,0.129,,,0
+XC472914 - Hume's Leaf Warbler - Phylloscopus humei humei_024_027.wav,Hume's Warbler,0.5806,,,0
+XC472914 - Hume's Leaf Warbler - Phylloscopus humei humei_030_033.wav,Hume's Warbler,0.9921,,,0
+XC472914 - Hume's Leaf Warbler - Phylloscopus humei humei_030_033.wav,White-bellied Redstart,0.2004,,,0
+XC472914 - Hume's Leaf Warbler - Phylloscopus humei humei_030_033.wav,Green-backed Tit,0.108,,,0
+XC472914 - Hume's Leaf Warbler - Phylloscopus humei humei_033_036.wav,Hume's Warbler,0.9426,,,0
+XC472914 - Hume's Leaf Warbler - Phylloscopus humei humei_036_039.wav,Hume's Warbler,0.8424,,,0
+XC472914 - Hume's Leaf Warbler - Phylloscopus humei humei_036_039.wav,Himalayan Bluetail,0.149,,,0
+XC472914 - Hume's Leaf Warbler - Phylloscopus humei humei_036_039.wav,White-bellied Redstart,0.1003,,,0
+XC472914 - Hume's Leaf Warbler - Phylloscopus humei humei_039_042.wav,Hume's Warbler,0.2024,,,0
+XC472914 - Hume's Leaf Warbler - Phylloscopus humei humei_042_045.wav,Hume's Warbler,0.7123,,,0
+XC472914 - Hume's Leaf Warbler - Phylloscopus humei humei_042_045.wav,White-bellied Redstart,0.3789,,,0
+XC472914 - Hume's Leaf Warbler - Phylloscopus humei humei_042_045.wav,Indian White-eye,0.1523,,,0
+XC472914 - Hume's Leaf Warbler - Phylloscopus humei humei_042_045.wav,Greenish Warbler,0.1007,,,0
+XC472914 - Hume's Leaf Warbler - Phylloscopus humei humei_045_048.wav,Hume's Warbler,0.1893,,,0
+XC472917 - Hume's Leaf Warbler - Phylloscopus humei humei_000_003.wav,Hume's Warbler,0.9962,,,0
+XC472917 - Hume's Leaf Warbler - Phylloscopus humei humei_003_006.wav,Hume's Warbler,0.993,,,0
+XC472917 - Hume's Leaf Warbler - Phylloscopus humei humei_006_009.wav,Hume's Warbler,0.9959,,,0
+XC472917 - Hume's Leaf Warbler - Phylloscopus humei humei_009_012.wav,Hume's Warbler,0.9866,,,0
+XC472917 - Hume's Leaf Warbler - Phylloscopus humei humei_012_015.wav,Hume's Warbler,0.9971,,,0
+XC472917 - Hume's Leaf Warbler - Phylloscopus humei humei_015_018.wav,Hume's Warbler,0.9946,,,0
+XC472917 - Hume's Leaf Warbler - Phylloscopus humei humei_018_021.wav,Hume's Warbler,0.9934,,,0
+XC472917 - Hume's Leaf Warbler - Phylloscopus humei humei_021_024.wav,Hume's Warbler,0.9978,,,0
+XC472917 - Hume's Leaf Warbler - Phylloscopus humei humei_024_027.wav,Hume's Warbler,0.9899,,,0
+XC472917 - Hume's Leaf Warbler - Phylloscopus humei humei_027_030.wav,Hume's Warbler,0.8598,,,-1
+XC472917 - Hume's Leaf Warbler - Phylloscopus humei humei_027_030.wav,Magnolia Warbler,0.1264,,,-1
+XC472917 - Hume's Leaf Warbler - Phylloscopus humei humei_027_030.wav,Ashy-throated Warbler,0.1231,,,-1
+XC472919 - Hume's Leaf Warbler - Phylloscopus humei humei_000_003.wav,Hume's Warbler,0.9918,,,0
+XC472919 - Hume's Leaf Warbler - Phylloscopus humei humei_003_006.wav,Hume's Warbler,0.9955,,,0
+XC472919 - Hume's Leaf Warbler - Phylloscopus humei humei_006_009.wav,Hume's Warbler,0.991,,,0
+XC472919 - Hume's Leaf Warbler - Phylloscopus humei humei_009_012.wav,Hume's Warbler,0.9948,,,0
+XC472919 - Hume's Leaf Warbler - Phylloscopus humei humei_012_015.wav,Hume's Warbler,0.9575,,,0
+XC472919 - Hume's Leaf Warbler - Phylloscopus humei humei_015_018.wav,Hume's Warbler,0.9758,,,0
+XC472919 - Hume's Leaf Warbler - Phylloscopus humei humei_018_021.wav,Hume's Warbler,0.9229,,,0
+XC472919 - Hume's Leaf Warbler - Phylloscopus humei humei_021_024.wav,Hume's Warbler,0.816,,,0
+XC472919 - Hume's Leaf Warbler - Phylloscopus humei humei_024_027.wav,Hume's Warbler,0.9055,,,0
+XC472919 - Hume's Leaf Warbler - Phylloscopus humei humei_027_030.wav,Hume's Warbler,0.8458,,,1
+XC491425 - Hume's Leaf Warbler - Phylloscopus humei humei_000_003.wav,Hume's Warbler,0.9875,,,0
+XC491425 - Hume's Leaf Warbler - Phylloscopus humei humei_003_006.wav,Hume's Warbler,0.9918,,,0
+XC491425 - Hume's Leaf Warbler - Phylloscopus humei humei_006_009.wav,Hume's Warbler,0.9412,,,0
+XC491425 - Hume's Leaf Warbler - Phylloscopus humei humei_009_012.wav,Hume's Warbler,0.9857,,,0
+XC491425 - Hume's Leaf Warbler - Phylloscopus humei humei_012_015.wav,Hume's Warbler,0.9625,,,0
+XC491425 - Hume's Leaf Warbler - Phylloscopus humei humei_015_018.wav,Hume's Warbler,0.9766,,,0
+XC611883 - Hume's Leaf Warbler - Phylloscopus humei humei_000_003.wav,Hume's Warbler,0.9951,,,0
+XC611883 - Hume's Leaf Warbler - Phylloscopus humei humei_003_006.wav,Hume's Warbler,0.9934,,,0
+XC611883 - Hume's Leaf Warbler - Phylloscopus humei humei_006_009.wav,Hume's Warbler,0.9466,,,0
+XC611883 - Hume's Leaf Warbler - Phylloscopus humei humei_015_018.wav,Hume's Warbler,0.2904,,,0
+XC611883 - Hume's Leaf Warbler - Phylloscopus humei humei_015_018.wav,Swinhoe's White-eye,0.1061,,,0
+XC611883 - Hume's Leaf Warbler - Phylloscopus humei humei_018_021.wav,Hume's Warbler,0.9627,,,0
+XC611883 - Hume's Leaf Warbler - Phylloscopus humei humei_021_024.wav,Hume's Warbler,0.9561,,,0
+XC611883 - Hume's Leaf Warbler - Phylloscopus humei humei_024_027.wav,Hume's Warbler,0.9849,,,-1
+XC611883 - Hume's Leaf Warbler - Phylloscopus humei humei_027_030.wav,Hume's Warbler,0.8466,,,1
+XC687873 - Hume's Leaf Warbler - Phylloscopus humei humei_003_006.wav,Hume's Warbler,0.656,,,0
+XC687873 - Hume's Leaf Warbler - Phylloscopus humei humei_006_009.wav,Hume's Warbler,0.9841,,,0
+XC687873 - Hume's Leaf Warbler - Phylloscopus humei humei_009_012.wav,Hume's Warbler,0.8828,,,0
+XC687873 - Hume's Leaf Warbler - Phylloscopus humei humei_012_015.wav,Hume's Warbler,0.9323,,,0
+XC687873 - Hume's Leaf Warbler - Phylloscopus humei humei_021_024.wav,Hume's Warbler,0.8368,,,0
+XC687873 - Hume's Leaf Warbler - Phylloscopus humei humei_024_027.wav,Hume's Warbler,0.8556,,,0
+XC698040 - Hume's Leaf Warbler - Phylloscopus humei humei_000_003.wav,Hume's Warbler,0.9802,,,0
+XC698040 - Hume's Leaf Warbler - Phylloscopus humei humei_003_006.wav,Hume's Warbler,0.9879,,,0
+XC698040 - Hume's Leaf Warbler - Phylloscopus humei humei_006_009.wav,Hume's Warbler,0.9946,,,0
+XC698040 - Hume's Leaf Warbler - Phylloscopus humei humei_009_012.wav,Hume's Warbler,0.9784,,,0
+XC698040 - Hume's Leaf Warbler - Phylloscopus humei humei_012_015.wav,Hume's Warbler,0.9497,,,0
+XC698040 - Hume's Leaf Warbler - Phylloscopus humei humei_015_018.wav,Hume's Warbler,0.7749,,,0
+XC698040 - Hume's Leaf Warbler - Phylloscopus humei humei_018_021.wav,Hume's Warbler,0.9945,,,0
+XC698040 - Hume's Leaf Warbler - Phylloscopus humei humei_021_024.wav,Hume's Warbler,0.9973,,,0
+XC698040 - Hume's Leaf Warbler - Phylloscopus humei humei_024_027.wav,Hume's Warbler,0.9133,,,0
+XC698040 - Hume's Leaf Warbler - Phylloscopus humei humei_027_030.wav,Hume's Warbler,0.9738,,,0
+XC698040 - Hume's Leaf Warbler - Phylloscopus humei humei_030_033.wav,Hume's Warbler,0.9742,,,-1
+XC698040 - Hume's Leaf Warbler - Phylloscopus humei humei_033_036.wav,Hume's Warbler,0.9968,,,0
+XC698040 - Hume's Leaf Warbler - Phylloscopus humei humei_036_039.wav,Hume's Warbler,0.9703,,,0
+XC698040 - Hume's Leaf Warbler - Phylloscopus humei humei_039_042.wav,Hume's Warbler,0.9897,,,0
+XC698042 - Hume's Leaf Warbler - Phylloscopus humei humei_000_003.wav,Hume's Warbler,0.9921,,,0
+XC698042 - Hume's Leaf Warbler - Phylloscopus humei humei_003_006.wav,Hume's Warbler,0.9971,,,0
+XC698042 - Hume's Leaf Warbler - Phylloscopus humei humei_006_009.wav,Hume's Warbler,0.8767,,,0
+XC698042 - Hume's Leaf Warbler - Phylloscopus humei humei_006_009.wav,Greenish Warbler,0.1107,,,0
+XC698042 - Hume's Leaf Warbler - Phylloscopus humei humei_009_012.wav,Hume's Warbler,0.2972,,,0
+XC698042 - Hume's Leaf Warbler - Phylloscopus humei humei_012_015.wav,Hume's Warbler,0.9932,,,0
+XC698042 - Hume's Leaf Warbler - Phylloscopus humei humei_015_018.wav,Hume's Warbler,0.9941,,,0
+XC698042 - Hume's Leaf Warbler - Phylloscopus humei humei_027_030.wav,Hume's Warbler,0.9695,,,0
+XC698042 - Hume's Leaf Warbler - Phylloscopus humei humei_030_033.wav,Hume's Warbler,0.9904,,,0
+XC698042 - Hume's Leaf Warbler - Phylloscopus humei humei_033_036.wav,White-throated Dipper,0.1989,,,0
+XC698042 - Hume's Leaf Warbler - Phylloscopus humei humei_036_039.wav,Cedar Waxwing,0.1202,,,0
+XC698042 - Hume's Leaf Warbler - Phylloscopus humei humei_039_042.wav,Hume's Warbler,0.9882,,,0
+XC698042 - Hume's Leaf Warbler - Phylloscopus humei humei_042_045.wav,Hume's Warbler,0.1777,,,0
+XC698042 - Hume's Leaf Warbler - Phylloscopus humei humei_042_045.wav,Western Miombo Sunbird,0.1006,,,0
+XC698042 - Hume's Leaf Warbler - Phylloscopus humei humei_045_048.wav,Hume's Warbler,0.9827,,,-1
+XC698043 - Hume's Leaf Warbler - Phylloscopus humei humei_000_003.wav,Hume's Warbler,0.9968,,,0
+XC698043 - Hume's Leaf Warbler - Phylloscopus humei humei_006_009.wav,Hume's Warbler,0.9895,,,0
+XC698043 - Hume's Leaf Warbler - Phylloscopus humei humei_012_015.wav,Hume's Warbler,0.9132,,,0
+XC698043 - Hume's Leaf Warbler - Phylloscopus humei humei_015_018.wav,Hume's Warbler,0.9869,,,0
+XC73381 - Hume's Leaf Warbler - Phylloscopus humei humei_000_003.wav,Hume's Warbler,0.9689,,,0
+XC73381 - Hume's Leaf Warbler - Phylloscopus humei humei_003_006.wav,Hume's Warbler,0.7323,,,0
+XC73381 - Hume's Leaf Warbler - Phylloscopus humei humei_006_009.wav,Common Kingfisher,0.1974,,,0
+XC73381 - Hume's Leaf Warbler - Phylloscopus humei humei_012_015.wav,Yellow-browed Warbler,0.2418,,,0
+XC73381 - Hume's Leaf Warbler - Phylloscopus humei humei_012_015.wav,Hume's Warbler,0.2187,,,0
+XC73381 - Hume's Leaf Warbler - Phylloscopus humei humei_015_018.wav,Hume's Warbler,0.2462,,,0
+XC73381 - Hume's Leaf Warbler - Phylloscopus humei humei_015_018.wav,Yellow-browed Warbler,0.147,,,0
+XC73382 - Hume's Leaf Warbler - Phylloscopus humei humei_000_003.wav,Hume's Warbler,0.8918,,,0
+XC73382 - Hume's Leaf Warbler - Phylloscopus humei humei_003_006.wav,Hume's Warbler,0.8881,,,0
+XC73382 - Hume's Leaf Warbler - Phylloscopus humei humei_006_009.wav,Hume's Warbler,0.8417,,,0
+XC73382 - Hume's Leaf Warbler - Phylloscopus humei humei_009_012.wav,Hume's Warbler,0.8524,,,0
+XC73382 - Hume's Leaf Warbler - Phylloscopus humei humei_012_015.wav,Hume's Warbler,0.9693,,,0
+XC73382 - Hume's Leaf Warbler - Phylloscopus humei humei_015_018.wav,Red-wattled Lapwing,0.1281,,,0
+XC73382 - Hume's Leaf Warbler - Phylloscopus humei humei_015_018.wav,Gray Francolin,0.1199,,,0
+XC738539 - Hume's Leaf Warbler - Phylloscopus humei humei_000_003.wav,Hume's Warbler,0.9985,,,0
+XC738539 - Hume's Leaf Warbler - Phylloscopus humei humei_003_006.wav,Hume's Warbler,0.9911,,,0
+XC738539 - Hume's Leaf Warbler - Phylloscopus humei humei_006_009.wav,Hume's Warbler,0.9916,,,0
+XC738539 - Hume's Leaf Warbler - Phylloscopus humei humei_009_012.wav,Hume's Warbler,0.9976,,,0
+XC738539 - Hume's Leaf Warbler - Phylloscopus humei humei_012_015.wav,Hume's Warbler,0.9977,,,0
+XC738539 - Hume's Leaf Warbler - Phylloscopus humei humei_015_018.wav,Hume's Warbler,0.9575,,,0
+XC738539 - Hume's Leaf Warbler - Phylloscopus humei humei_018_021.wav,Hume's Warbler,0.9877,,,0
+XC738539 - Hume's Leaf Warbler - Phylloscopus humei humei_021_024.wav,Hume's Warbler,0.9902,,,0
+XC738540 - Hume's Leaf Warbler - Phylloscopus humei humei_000_003.wav,Hume's Warbler,0.9989,,,0
+XC738540 - Hume's Leaf Warbler - Phylloscopus humei humei_003_006.wav,Hume's Warbler,0.9531,,,0
+XC738540 - Hume's Leaf Warbler - Phylloscopus humei humei_006_009.wav,Hume's Warbler,0.9674,,,0
+XC738540 - Hume's Leaf Warbler - Phylloscopus humei humei_009_012.wav,Hume's Warbler,0.9752,,,0
+XC738540 - Hume's Leaf Warbler - Phylloscopus humei humei_012_015.wav,Hume's Warbler,0.9628,,,0
+XC738540 - Hume's Leaf Warbler - Phylloscopus humei humei_012_015.wav,Tickell's Leaf Warbler,0.1224,,,0
+XC738540 - Hume's Leaf Warbler - Phylloscopus humei humei_018_021.wav,Common Rosefinch,0.5257,,,0
+XC738540 - Hume's Leaf Warbler - Phylloscopus humei humei_018_021.wav,Himalayan Rubythroat,0.1338,,,0
+XC738540 - Hume's Leaf Warbler - Phylloscopus humei humei_021_024.wav,Himalayan Rubythroat,0.1783,,,0
+XC738540 - Hume's Leaf Warbler - Phylloscopus humei humei_021_024.wav,Common Rosefinch,0.1326,,,0
+XC738540 - Hume's Leaf Warbler - Phylloscopus humei humei_024_027.wav,Hume's Warbler,0.9833,,,0
+XC738540 - Hume's Leaf Warbler - Phylloscopus humei humei_027_030.wav,Hume's Warbler,0.9948,,,0
+XC738540 - Hume's Leaf Warbler - Phylloscopus humei humei_030_033.wav,Hume's Warbler,0.8925,,,0
+XC738540 - Hume's Leaf Warbler - Phylloscopus humei humei_030_033.wav,Southern Scrub-Flycatcher,0.1085,,,0
+XC738540 - Hume's Leaf Warbler - Phylloscopus humei humei_033_036.wav,Hume's Warbler,0.9857,,,0
+XC738540 - Hume's Leaf Warbler - Phylloscopus humei humei_033_036.wav,Tickell's Leaf Warbler,0.1261,,,0
+XC738540 - Hume's Leaf Warbler - Phylloscopus humei humei_036_039.wav,Hume's Warbler,0.9915,,,0
+XC738540 - Hume's Leaf Warbler - Phylloscopus humei humei_039_042.wav,Tickell's Leaf Warbler,0.1148,,,0
+XC738540 - Hume's Leaf Warbler - Phylloscopus humei humei_042_045.wav,Hume's Warbler,0.9955,,,0
+XC738540 - Hume's Leaf Warbler - Phylloscopus humei humei_045_048.wav,Hume's Warbler,0.8566,,,0
+XC738540 - Hume's Leaf Warbler - Phylloscopus humei humei_045_048.wav,Himalayan Rubythroat,0.1284,,,0
+XC738540 - Hume's Leaf Warbler - Phylloscopus humei humei_048_051.wav,Mountain Chiffchaff,0.1412,,,0
+XC738540 - Hume's Leaf Warbler - Phylloscopus humei humei_051_054.wav,Common Rosefinch,0.7873,,,0
+XC738540 - Hume's Leaf Warbler - Phylloscopus humei humei_054_057.wav,Hume's Warbler,0.9946,,,0
+XC738540 - Hume's Leaf Warbler - Phylloscopus humei humei_057_060.wav,Hume's Warbler,0.8844,,,0
+XC738540 - Hume's Leaf Warbler - Phylloscopus humei humei_057_060.wav,Southern Scrub-Flycatcher,0.3594,,,0
+XC738540 - Hume's Leaf Warbler - Phylloscopus humei humei_060_063.wav,Hume's Warbler,0.9094,,,0
+XC738540 - Hume's Leaf Warbler - Phylloscopus humei humei_060_063.wav,Southern Scrub-Flycatcher,0.4823,,,0
+XC738540 - Hume's Leaf Warbler - Phylloscopus humei humei_060_063.wav,Mountain Chiffchaff,0.1158,,,0
+XC738540 - Hume's Leaf Warbler - Phylloscopus humei humei_063_066.wav,Hume's Warbler,0.9998,,,0
+XC738540 - Hume's Leaf Warbler - Phylloscopus humei humei_066_069.wav,Hume's Warbler,0.8932,,,0
+XC738540 - Hume's Leaf Warbler - Phylloscopus humei humei_069_072.wav,Hume's Warbler,0.9205,,,0
+XC738540 - Hume's Leaf Warbler - Phylloscopus humei humei_069_072.wav,Southern Scrub-Flycatcher,0.2434,,,0
+XC738540 - Hume's Leaf Warbler - Phylloscopus humei humei_072_075.wav,Hume's Warbler,0.9796,,,0
+XC738540 - Hume's Leaf Warbler - Phylloscopus humei humei_075_078.wav,Hume's Warbler,0.9951,,,0
+XC738540 - Hume's Leaf Warbler - Phylloscopus humei humei_078_081.wav,Hume's Warbler,0.9684,,,0
+XC738540 - Hume's Leaf Warbler - Phylloscopus humei humei_081_084.wav,Common Rosefinch,0.7078,,,0
+XC738540 - Hume's Leaf Warbler - Phylloscopus humei humei_084_087.wav,Hume's Warbler,0.9798,,,0
+XC738540 - Hume's Leaf Warbler - Phylloscopus humei humei_084_087.wav,Ashy-throated Warbler,0.3291,,,0
+XC738540 - Hume's Leaf Warbler - Phylloscopus humei humei_087_090.wav,Hume's Warbler,0.986,,,0
+XC738540 - Hume's Leaf Warbler - Phylloscopus humei humei_090_093.wav,Hume's Warbler,0.1932,,,0
+XC738540 - Hume's Leaf Warbler - Phylloscopus humei humei_090_093.wav,Tytler's Leaf Warbler,0.1214,,,0
+XC738540 - Hume's Leaf Warbler - Phylloscopus humei humei_090_093.wav,Gray-cheeked Warbler,0.1055,,,0
+XC738540 - Hume's Leaf Warbler - Phylloscopus humei humei_093_096.wav,Hume's Warbler,0.9721,,,0
+XC738540 - Hume's Leaf Warbler - Phylloscopus humei humei_096_099.wav,Hume's Warbler,0.7991,,,0
+XC738540 - Hume's Leaf Warbler - Phylloscopus humei humei_099_102.wav,Common Rosefinch,0.5619,,,0
+XC738540 - Hume's Leaf Warbler - Phylloscopus humei humei_102_105.wav,Hume's Warbler,0.991,,,0
+XC738540 - Hume's Leaf Warbler - Phylloscopus humei humei_105_108.wav,Hume's Warbler,0.9984,,,0
+XC738540 - Hume's Leaf Warbler - Phylloscopus humei humei_108_111.wav,Hume's Warbler,0.9943,,,0
+XC738540 - Hume's Leaf Warbler - Phylloscopus humei humei_111_114.wav,Tickell's Leaf Warbler,0.1306,,,0
+XC738540 - Hume's Leaf Warbler - Phylloscopus humei humei_114_117.wav,Hume's Warbler,0.9721,,,0
+XC738540 - Hume's Leaf Warbler - Phylloscopus humei humei_114_117.wav,Ashy-throated Warbler,0.4137,,,0
+XC749558 - Hume's Leaf Warbler - Phylloscopus humei humei_000_003.wav,Hume's Warbler,0.9968,,,0
+XC749558 - Hume's Leaf Warbler - Phylloscopus humei humei_003_006.wav,Hume's Warbler,0.9982,,,0
+XC749558 - Hume's Leaf Warbler - Phylloscopus humei humei_006_009.wav,Hume's Warbler,0.9803,,,0
+XC749558 - Hume's Leaf Warbler - Phylloscopus humei humei_009_012.wav,Hume's Warbler,0.979,,,0
+XC749558 - Hume's Leaf Warbler - Phylloscopus humei humei_012_015.wav,Hume's Warbler,0.9915,,,0
+XC749558 - Hume's Leaf Warbler - Phylloscopus humei humei_015_018.wav,Hume's Warbler,0.9452,,,0
+XC749558 - Hume's Leaf Warbler - Phylloscopus humei humei_018_021.wav,Hume's Warbler,0.9969,,,0
+XC749558 - Hume's Leaf Warbler - Phylloscopus humei humei_021_024.wav,Hume's Warbler,0.9986,,,0
+XC749558 - Hume's Leaf Warbler - Phylloscopus humei humei_024_027.wav,Hume's Warbler,0.7272,,,1
+XC749562 - Hume's Leaf Warbler - Phylloscopus humei humei_003_006.wav,Black-throated Prinia,0.3191,,,-1
+XC749562 - Hume's Leaf Warbler - Phylloscopus humei humei_006_009.wav,Painted Redstart,0.116,,,-1
+XC749562 - Hume's Leaf Warbler - Phylloscopus humei humei_006_009.wav,Hutton's Vireo,0.1047,,,-1
+XC749562 - Hume's Leaf Warbler - Phylloscopus humei humei_015_018.wav,Painted Redstart,0.1581,,,-1
+XC749562 - Hume's Leaf Warbler - Phylloscopus humei humei_015_018.wav,Black-throated Prinia,0.127,,,-1
+XC750784 - Hume's Leaf Warbler - Phylloscopus humei humei_000_003.wav,Hume's Warbler,0.9968,,,0
+XC750784 - Hume's Leaf Warbler - Phylloscopus humei humei_003_006.wav,Common Redpoll,0.5332,,,0
+XC750784 - Hume's Leaf Warbler - Phylloscopus humei humei_003_006.wav,Lesser Redpoll,0.1265,,,0
+XC750784 - Hume's Leaf Warbler - Phylloscopus humei humei_006_009.wav,Hume's Warbler,0.9614,,,0
+XC750784 - Hume's Leaf Warbler - Phylloscopus humei humei_009_012.wav,Hume's Warbler,0.9773,,,0
+XC750784 - Hume's Leaf Warbler - Phylloscopus humei humei_012_015.wav,Hume's Warbler,0.9593,,,0
+XC770059 - Hume's Leaf Warbler - Phylloscopus humei humei_000_003.wav,Hume's Warbler,0.775,,,0
+XC770059 - Hume's Leaf Warbler - Phylloscopus humei humei_000_003.wav,Redwing,0.3504,,,0
+XC770059 - Hume's Leaf Warbler - Phylloscopus humei humei_003_006.wav,Hume's Warbler,0.2588,,,0
+XC770059 - Hume's Leaf Warbler - Phylloscopus humei humei_006_009.wav,Hume's Warbler,0.711,,,0
+XC770059 - Hume's Leaf Warbler - Phylloscopus humei humei_006_009.wav,White-chinned Thistletail,0.1699,,,0
+XC770059 - Hume's Leaf Warbler - Phylloscopus humei humei_009_012.wav,Hume's Warbler,0.9529,,,0
+XC770059 - Hume's Leaf Warbler - Phylloscopus humei humei_012_015.wav,Hume's Warbler,0.9711,,,0
+XC770059 - Hume's Leaf Warbler - Phylloscopus humei humei_015_018.wav,Hume's Warbler,0.407,,,0
+XC770059 - Hume's Leaf Warbler - Phylloscopus humei humei_018_021.wav,Hume's Warbler,0.9778,,,0
+XC770059 - Hume's Leaf Warbler - Phylloscopus humei humei_021_024.wav,Hume's Warbler,0.6477,,,0
+XC770059 - Hume's Leaf Warbler - Phylloscopus humei humei_024_027.wav,Hume's Warbler,0.4901,,,0
+XC770059 - Hume's Leaf Warbler - Phylloscopus humei humei_027_030.wav,Hume's Warbler,0.9093,,,0
+XC770059 - Hume's Leaf Warbler - Phylloscopus humei humei_030_033.wav,Hume's Warbler,0.7983,,,0
+XC770059 - Hume's Leaf Warbler - Phylloscopus humei humei_042_045.wav,Orange-banded Flycatcher,0.1749,,,0
+XC770059 - Hume's Leaf Warbler - Phylloscopus humei humei_042_045.wav,Abert's Towhee,0.1582,,,0
+XC770059 - Hume's Leaf Warbler - Phylloscopus humei humei_048_051.wav,Western Yellow Wagtail,0.1583,,,0
+XC770059 - Hume's Leaf Warbler - Phylloscopus humei humei_051_054.wav,Chukar,0.2335,,,0
+XC770059 - Hume's Leaf Warbler - Phylloscopus humei humei_051_054.wav,Bananal Antbird,0.1318,,,0
+XC770059 - Hume's Leaf Warbler - Phylloscopus humei humei_054_057.wav,Sulphur-bellied Flycatcher,0.2584,,,0
+XC770059 - Hume's Leaf Warbler - Phylloscopus humei humei_054_057.wav,Eastern Spinebill,0.1099,,,0
+XC770059 - Hume's Leaf Warbler - Phylloscopus humei humei_057_060.wav,Hume's Warbler,0.7521,,,0
+XC770059 - Hume's Leaf Warbler - Phylloscopus humei humei_057_060.wav,Glossy Flowerpiercer,0.25,,,0
+XC770059 - Hume's Leaf Warbler - Phylloscopus humei humei_057_060.wav,Greenish Warbler,0.2443,,,0
+XC770059 - Hume's Leaf Warbler - Phylloscopus humei humei_060_063.wav,Pine Siskin,0.3123,,,0
+XC770059 - Hume's Leaf Warbler - Phylloscopus humei humei_060_063.wav,Greenish Warbler,0.2964,,,0
+XC770059 - Hume's Leaf Warbler - Phylloscopus humei humei_060_063.wav,Hume's Warbler,0.2649,,,0
+XC770059 - Hume's Leaf Warbler - Phylloscopus humei humei_063_066.wav,Hume's Warbler,0.344,,,0
+XC770059 - Hume's Leaf Warbler - Phylloscopus humei humei_063_066.wav,Eastern Crowned Warbler,0.1229,,,0
+XC770059 - Hume's Leaf Warbler - Phylloscopus humei humei_072_075.wav,Green Warbler,0.2894,,,1
+XC770059 - Hume's Leaf Warbler - Phylloscopus humei humei_072_075.wav,Greenish Warbler,0.2716,,,1
+XC772385 - Hume's Leaf Warbler - Phylloscopus humei humei_003_006.wav,Hume's Warbler,0.4044,,,0
+XC772385 - Hume's Leaf Warbler - Phylloscopus humei humei_006_009.wav,Hume's Warbler,0.9637,,,0
+XC772385 - Hume's Leaf Warbler - Phylloscopus humei humei_006_009.wav,Davison's Leaf Warbler,0.1294,,,0
+XC772385 - Hume's Leaf Warbler - Phylloscopus humei humei_006_009.wav,Yellow-browed Warbler,0.1162,,,0
+XC772385 - Hume's Leaf Warbler - Phylloscopus humei humei_009_012.wav,Hume's Warbler,0.9465,,,0
+XC772385 - Hume's Leaf Warbler - Phylloscopus humei humei_012_015.wav,Hume's Warbler,0.9215,,,0
+XC772385 - Hume's Leaf Warbler - Phylloscopus humei humei_015_018.wav,Eurasian Jay,0.2597,,,0
+XC772386 - Hume's Leaf Warbler - Phylloscopus humei humei_006_009.wav,Pin-tailed Whydah,0.2783,,,0
+XC772386 - Hume's Leaf Warbler - Phylloscopus humei humei_015_018.wav,European Robin,0.2976,,,0
+XC772386 - Hume's Leaf Warbler - Phylloscopus humei humei_018_021.wav,Yellow-browed Warbler,0.2598,,,0
+XC772386 - Hume's Leaf Warbler - Phylloscopus humei humei_018_021.wav,Black-throated Sunbird,0.2211,,,0
+XC772386 - Hume's Leaf Warbler - Phylloscopus humei humei_021_024.wav,European Robin,0.3254,,,0
+XC772386 - Hume's Leaf Warbler - Phylloscopus humei humei_021_024.wav,Spectacled Parrotlet,0.1329,,,0
+XC772386 - Hume's Leaf Warbler - Phylloscopus humei humei_024_027.wav,Olive-backed Sunbird,0.2074,,,0
+XC772386 - Hume's Leaf Warbler - Phylloscopus humei humei_024_027.wav,Purple Sunbird,0.2057,,,0
+XC772386 - Hume's Leaf Warbler - Phylloscopus humei humei_024_027.wav,Arafura Fantail,0.1329,,,0
+XC772386 - Hume's Leaf Warbler - Phylloscopus humei humei_027_030.wav,Iberian Chiffchaff,0.3971,,,0
+XC772386 - Hume's Leaf Warbler - Phylloscopus humei humei_030_033.wav,Short-toed Treecreeper,0.3909,,,-1
+XC772386 - Hume's Leaf Warbler - Phylloscopus humei humei_030_033.wav,Lesser Violetear,0.1008,,,-1
+XC772386 - Hume's Leaf Warbler - Phylloscopus humei humei_033_036.wav,Barred Owl,0.3216,,,1
+XC772387 - Hume's Leaf Warbler - Phylloscopus humei humei_000_003.wav,Sardinian Warbler,0.5655,,,-1
+XC772387 - Hume's Leaf Warbler - Phylloscopus humei humei_000_003.wav,Cetti's Warbler,0.4935,,,-1
+XC772387 - Hume's Leaf Warbler - Phylloscopus humei humei_003_006.wav,Hume's Warbler,0.9073,,,0
+XC772387 - Hume's Leaf Warbler - Phylloscopus humei humei_006_009.wav,Sardinian Warbler,0.1997,,,0
+XC772387 - Hume's Leaf Warbler - Phylloscopus humei humei_009_012.wav,Hawfinch,0.6505,,,-1
+XC772387 - Hume's Leaf Warbler - Phylloscopus humei humei_009_012.wav,European Robin,0.2082,,,-1
+XC772387 - Hume's Leaf Warbler - Phylloscopus humei humei_012_015.wav,Hume's Warbler,0.9501,,,0
+XC772387 - Hume's Leaf Warbler - Phylloscopus humei humei_015_018.wav,European Robin,0.4168,,,-1
+XC772387 - Hume's Leaf Warbler - Phylloscopus humei humei_021_024.wav,Rough-legged Tyrannulet,0.3366,,,0
+XC772387 - Hume's Leaf Warbler - Phylloscopus humei humei_024_027.wav,Short-toed Treecreeper,0.9775,,,0
+XC772387 - Hume's Leaf Warbler - Phylloscopus humei humei_027_030.wav,Black Phoebe,0.4041,,,1
+XC772387 - Hume's Leaf Warbler - Phylloscopus humei humei_027_030.wav,Hume's Warbler,0.1573,,,1
+XC772389 - Hume's Leaf Warbler - Phylloscopus humei humei_000_003.wav,Black-capped Pygmy-Tyrant,0.7839,,,0
+XC772389 - Hume's Leaf Warbler - Phylloscopus humei humei_003_006.wav,Yellow-breasted Flycatcher,0.1757,,,0
+XC772389 - Hume's Leaf Warbler - Phylloscopus humei humei_003_006.wav,Tropical Kingbird,0.1436,,,0
+XC772389 - Hume's Leaf Warbler - Phylloscopus humei humei_006_009.wav,Yellow-olive Flycatcher,0.3658,,,0
+XC772389 - Hume's Leaf Warbler - Phylloscopus humei humei_006_009.wav,Yellow-breasted Flycatcher,0.3151,,,0
+XC772389 - Hume's Leaf Warbler - Phylloscopus humei humei_012_015.wav,Tropical Pewee,0.1453,,,0
+XC772389 - Hume's Leaf Warbler - Phylloscopus humei humei_015_018.wav,Dunnock,0.1237,,,0
+XC772389 - Hume's Leaf Warbler - Phylloscopus humei humei_015_018.wav,White Wagtail,0.1144,,,0
+XC772389 - Hume's Leaf Warbler - Phylloscopus humei humei_015_018.wav,Gray Wagtail,0.1135,,,0
+XC772587 - Hume's Leaf Warbler - Phylloscopus humei humei_000_003.wav,Hume's Warbler,0.9936,,,0
+XC772587 - Hume's Leaf Warbler - Phylloscopus humei humei_003_006.wav,Hume's Warbler,0.9371,,,0
+XC781138 - Hume's Leaf Warbler - Phylloscopus humei humei_000_003.wav,Hume's Warbler,0.6638,,,0
+XC781138 - Hume's Leaf Warbler - Phylloscopus humei humei_003_006.wav,Hume's Warbler,0.7187,,,0
+XC781138 - Hume's Leaf Warbler - Phylloscopus humei humei_006_009.wav,Hume's Warbler,0.7539,,,0
+XC781138 - Hume's Leaf Warbler - Phylloscopus humei humei_009_012.wav,Hume's Warbler,0.8308,,,0
+XC782339 - Hume's Leaf Warbler - Phylloscopus humei humei_000_003.wav,Hume's Warbler,0.958,,,0
+XC782339 - Hume's Leaf Warbler - Phylloscopus humei humei_003_006.wav,Hume's Warbler,0.7773,,,0
+XC782339 - Hume's Leaf Warbler - Phylloscopus humei humei_006_009.wav,Hume's Warbler,0.9215,,,0
+XC782339 - Hume's Leaf Warbler - Phylloscopus humei humei_009_012.wav,Hume's Warbler,0.9638,,,0
+XC782339 - Hume's Leaf Warbler - Phylloscopus humei humei_012_015.wav,Hume's Warbler,0.9413,,,0
+XC782339 - Hume's Leaf Warbler - Phylloscopus humei humei_015_018.wav,Hume's Warbler,0.1336,,,0
+XC782344 - Hume's Leaf Warbler - Phylloscopus humei humei_000_003.wav,Hume's Warbler,0.9948,,,0
+XC782344 - Hume's Leaf Warbler - Phylloscopus humei humei_003_006.wav,Hume's Warbler,0.9866,,,0
+XC782344 - Hume's Leaf Warbler - Phylloscopus humei humei_006_009.wav,Hume's Warbler,0.9953,,,0
+XC782344 - Hume's Leaf Warbler - Phylloscopus humei humei_009_012.wav,Hume's Warbler,0.9886,,,0
+XC782344 - Hume's Leaf Warbler - Phylloscopus humei humei_012_015.wav,Hume's Warbler,0.9973,,,0
+XC782344 - Hume's Leaf Warbler - Phylloscopus humei humei_015_018.wav,Hume's Warbler,0.9751,,,0
+XC782344 - Hume's Leaf Warbler - Phylloscopus humei humei_018_021.wav,Hume's Warbler,0.9828,,,0
+XC782344 - Hume's Leaf Warbler - Phylloscopus humei humei_021_024.wav,Hume's Warbler,0.9879,,,0
+XC782344 - Hume's Leaf Warbler - Phylloscopus humei humei_024_027.wav,Hume's Warbler,0.7162,,,0
+XC782344 - Hume's Leaf Warbler - Phylloscopus humei humei_027_030.wav,Hume's Warbler,0.9682,,,0
+XC782344 - Hume's Leaf Warbler - Phylloscopus humei humei_027_030.wav,Engine,0.1345,,,0
+XC782344 - Hume's Leaf Warbler - Phylloscopus humei humei_030_033.wav,Hume's Warbler,0.9518,,,0
+XC782344 - Hume's Leaf Warbler - Phylloscopus humei humei_030_033.wav,Clamorous Reed Warbler,0.1468,,,0
+XC782344 - Hume's Leaf Warbler - Phylloscopus humei humei_033_036.wav,Hume's Warbler,0.9485,,,0
+XC782344 - Hume's Leaf Warbler - Phylloscopus humei humei_033_036.wav,Engine,0.1609,,,0
+XC782344 - Hume's Leaf Warbler - Phylloscopus humei humei_036_039.wav,Hume's Warbler,0.8909,,,0
+XC782344 - Hume's Leaf Warbler - Phylloscopus humei humei_039_042.wav,Hume's Warbler,0.7929,,,0
+XC782344 - Hume's Leaf Warbler - Phylloscopus humei humei_042_045.wav,Hume's Warbler,0.9858,,,0
+XC782344 - Hume's Leaf Warbler - Phylloscopus humei humei_045_048.wav,Hume's Warbler,0.9246,,,0
+XC782344 - Hume's Leaf Warbler - Phylloscopus humei humei_048_051.wav,Hume's Warbler,0.9799,,,0
+XC782344 - Hume's Leaf Warbler - Phylloscopus humei humei_051_054.wav,Hume's Warbler,0.9722,,,0
+XC782344 - Hume's Leaf Warbler - Phylloscopus humei humei_054_057.wav,Black Phoebe,0.1861,,,0
+XC782344 - Hume's Leaf Warbler - Phylloscopus humei humei_054_057.wav,Hume's Warbler,0.1274,,,0
+XC782344 - Hume's Leaf Warbler - Phylloscopus humei humei_057_060.wav,Hume's Warbler,0.9514,,,-1
+XC782350 - Hume's Leaf Warbler - Phylloscopus humei humei_000_003.wav,Hume's Warbler,0.9697,,,0
+XC782350 - Hume's Leaf Warbler - Phylloscopus humei humei_003_006.wav,Hume's Warbler,0.9188,,,0
+XC782350 - Hume's Leaf Warbler - Phylloscopus humei humei_006_009.wav,Hume's Warbler,0.9548,,,0
+XC782350 - Hume's Leaf Warbler - Phylloscopus humei humei_009_012.wav,Hume's Warbler,0.8248,,,0
+XC782350 - Hume's Leaf Warbler - Phylloscopus humei humei_012_015.wav,Hume's Warbler,0.8667,,,0
+XC782350 - Hume's Leaf Warbler - Phylloscopus humei humei_018_021.wav,Hume's Warbler,0.9049,,,0
+XC782350 - Hume's Leaf Warbler - Phylloscopus humei humei_021_024.wav,Hume's Warbler,0.8817,,,0
+XC782350 - Hume's Leaf Warbler - Phylloscopus humei humei_024_027.wav,Hume's Warbler,0.9824,,,0
+XC782350 - Hume's Leaf Warbler - Phylloscopus humei humei_027_030.wav,Red-legged Partridge,0.9038,,,0
+XC782350 - Hume's Leaf Warbler - Phylloscopus humei humei_027_030.wav,Egyptian Goose,0.3229,,,0
+XC782350 - Hume's Leaf Warbler - Phylloscopus humei humei_030_033.wav,Egyptian Goose,0.8084,,,0
+XC782350 - Hume's Leaf Warbler - Phylloscopus humei humei_030_033.wav,Canada Goose,0.1209,,,0
+XC782350 - Hume's Leaf Warbler - Phylloscopus humei humei_030_033.wav,Red-legged Partridge,0.1026,,,0
+XC782350 - Hume's Leaf Warbler - Phylloscopus humei humei_033_036.wav,Egyptian Goose,0.1198,,,0
+XC782350 - Hume's Leaf Warbler - Phylloscopus humei humei_033_036.wav,Red-legged Partridge,0.102,,,0
+XC782350 - Hume's Leaf Warbler - Phylloscopus humei humei_039_042.wav,Hume's Warbler,0.8042,,,0
+XC782350 - Hume's Leaf Warbler - Phylloscopus humei humei_042_045.wav,Spotted Crake,0.1013,,,0
+XC782350 - Hume's Leaf Warbler - Phylloscopus humei humei_051_054.wav,Dusky Flycatcher,0.1664,,,0
+XC782350 - Hume's Leaf Warbler - Phylloscopus humei humei_057_060.wav,Hume's Warbler,0.9584,,,0
+XC782350 - Hume's Leaf Warbler - Phylloscopus humei humei_060_063.wav,Hume's Warbler,0.9044,,,0
+XC782350 - Hume's Leaf Warbler - Phylloscopus humei humei_063_066.wav,Hume's Warbler,0.9823,,,0
+XC782350 - Hume's Leaf Warbler - Phylloscopus humei humei_066_069.wav,Hume's Warbler,0.9267,,,0
+XC782350 - Hume's Leaf Warbler - Phylloscopus humei humei_069_072.wav,Hume's Warbler,0.9869,,,0
+XC782350 - Hume's Leaf Warbler - Phylloscopus humei humei_072_075.wav,Hume's Warbler,0.9535,,,0
+XC782350 - Hume's Leaf Warbler - Phylloscopus humei humei_075_078.wav,Hume's Warbler,0.9083,,,0
+XC782350 - Hume's Leaf Warbler - Phylloscopus humei humei_078_081.wav,Hume's Warbler,0.9056,,,0
+XC782350 - Hume's Leaf Warbler - Phylloscopus humei humei_081_084.wav,Hume's Warbler,0.9351,,,0
+XC782350 - Hume's Leaf Warbler - Phylloscopus humei humei_084_087.wav,Hume's Warbler,0.8295,,,0
+XC782350 - Hume's Leaf Warbler - Phylloscopus humei humei_087_090.wav,Hume's Warbler,0.9627,,,1
+XC782543 - Hume's Leaf Warbler - Phylloscopus humei humei_000_003.wav,Hume's Warbler,0.617,,,0
+XC782543 - Hume's Leaf Warbler - Phylloscopus humei humei_003_006.wav,Hume's Warbler,0.8703,,,0
+XC782543 - Hume's Leaf Warbler - Phylloscopus humei humei_006_009.wav,Hume's Warbler,0.738,,,0
+XC782543 - Hume's Leaf Warbler - Phylloscopus humei humei_009_012.wav,Hume's Warbler,0.8509,,,0
+XC782543 - Hume's Leaf Warbler - Phylloscopus humei humei_012_015.wav,Hume's Warbler,0.4483,,,0
+XC782543 - Hume's Leaf Warbler - Phylloscopus humei humei_015_018.wav,Hume's Warbler,0.8122,,,-1
+XC782543 - Hume's Leaf Warbler - Phylloscopus humei humei_015_018.wav,Engine,0.2201,,,-1
+XC782543 - Hume's Leaf Warbler - Phylloscopus humei humei_018_021.wav,Hume's Warbler,0.4879,,,0
+XC782543 - Hume's Leaf Warbler - Phylloscopus humei humei_024_027.wav,Hume's Warbler,0.4098,,,1
+XC786079 - Hume's Leaf Warbler - Phylloscopus humei humei_000_003.wav,Hume's Warbler,0.9723,,,0
+XC786079 - Hume's Leaf Warbler - Phylloscopus humei humei_003_006.wav,Hume's Warbler,0.1943,,,0
+XC786079 - Hume's Leaf Warbler - Phylloscopus humei humei_006_009.wav,Hume's Warbler,0.9703,,,0
+XC786079 - Hume's Leaf Warbler - Phylloscopus humei humei_009_012.wav,Eurasian Wren,0.1978,,,0
+XC786079 - Hume's Leaf Warbler - Phylloscopus humei humei_009_012.wav,Iberian Chiffchaff,0.1682,,,0
+XC786079 - Hume's Leaf Warbler - Phylloscopus humei humei_012_015.wav,Hume's Warbler,0.6931,,,0
+XC786079 - Hume's Leaf Warbler - Phylloscopus humei humei_012_015.wav,Bearded Reedling,0.1132,,,0
+XC786079 - Hume's Leaf Warbler - Phylloscopus humei humei_015_018.wav,Hume's Warbler,0.936,,,0
+XC786079 - Hume's Leaf Warbler - Phylloscopus humei humei_018_021.wav,Eurasian Wren,0.3616,,,0
+XC786079 - Hume's Leaf Warbler - Phylloscopus humei humei_018_021.wav,Iberian Chiffchaff,0.1307,,,0
+XC786079 - Hume's Leaf Warbler - Phylloscopus humei humei_021_024.wav,Hume's Warbler,0.589,,,0
+XC786079 - Hume's Leaf Warbler - Phylloscopus humei humei_021_024.wav,Spanish Sparrow,0.184,,,0
+XC786079 - Hume's Leaf Warbler - Phylloscopus humei humei_024_027.wav,Hume's Warbler,0.9308,,,0
+XC786079 - Hume's Leaf Warbler - Phylloscopus humei humei_027_030.wav,Hume's Warbler,0.5596,,,0
+XC786079 - Hume's Leaf Warbler - Phylloscopus humei humei_030_033.wav,Hume's Warbler,0.9877,,,0
+XC786079 - Hume's Leaf Warbler - Phylloscopus humei humei_033_036.wav,Hume's Warbler,0.9388,,,0
+XC786079 - Hume's Leaf Warbler - Phylloscopus humei humei_036_039.wav,Bearded Reedling,0.7407,,,0
+XC786079 - Hume's Leaf Warbler - Phylloscopus humei humei_036_039.wav,Hume's Warbler,0.3894,,,0
+XC786079 - Hume's Leaf Warbler - Phylloscopus humei humei_036_039.wav,Tickell's Leaf Warbler,0.332,,,0
+XC786079 - Hume's Leaf Warbler - Phylloscopus humei humei_039_042.wav,Hume's Warbler,0.9415,,,0
+XC786079 - Hume's Leaf Warbler - Phylloscopus humei humei_042_045.wav,Hume's Warbler,0.8397,,,0
+XC786079 - Hume's Leaf Warbler - Phylloscopus humei humei_045_048.wav,Hume's Warbler,0.8499,,,0
+XC786079 - Hume's Leaf Warbler - Phylloscopus humei humei_048_051.wav,Hume's Warbler,0.8851,,,0
+XC786079 - Hume's Leaf Warbler - Phylloscopus humei humei_054_057.wav,Hume's Warbler,0.873,,,0
+XC786079 - Hume's Leaf Warbler - Phylloscopus humei humei_054_057.wav,Common Firecrest,0.1112,,,0
+XC786079 - Hume's Leaf Warbler - Phylloscopus humei humei_060_063.wav,Hume's Warbler,0.3018,,,1
+XC786080 - Hume's Leaf Warbler - Phylloscopus humei humei_000_003.wav,Hume's Warbler,0.904,,,0
+XC786080 - Hume's Leaf Warbler - Phylloscopus humei humei_006_009.wav,Hume's Warbler,0.9254,,,0
+XC786080 - Hume's Leaf Warbler - Phylloscopus humei humei_009_012.wav,Hume's Warbler,0.7108,,,0
+XC786080 - Hume's Leaf Warbler - Phylloscopus humei humei_012_015.wav,Hume's Warbler,0.7123,,,0
+XC786080 - Hume's Leaf Warbler - Phylloscopus humei humei_015_018.wav,Hume's Warbler,0.9365,,,0
+XC808552 - Hume's Leaf Warbler - Phylloscopus humei humei_000_003.wav,Hume's Warbler,0.9916,,,-1
+XC808552 - Hume's Leaf Warbler - Phylloscopus humei humei_003_006.wav,Wrentit,0.2128,,,-1
+XC808552 - Hume's Leaf Warbler - Phylloscopus humei humei_003_006.wav,Greater Pewee,0.1431,,,-1
+XC808552 - Hume's Leaf Warbler - Phylloscopus humei humei_003_006.wav,Little Ringed Plover,0.1101,,,-1
+XC808552 - Hume's Leaf Warbler - Phylloscopus humei humei_006_009.wav,Hume's Warbler,0.9726,,,-1
+XC808552 - Hume's Leaf Warbler - Phylloscopus humei humei_009_012.wav,Marsh Tit,0.1018,,,0
+XC808552 - Hume's Leaf Warbler - Phylloscopus humei humei_012_015.wav,Hume's Warbler,0.9743,,,-1
+XC808552 - Hume's Leaf Warbler - Phylloscopus humei humei_018_021.wav,Hume's Warbler,0.8976,,,-1
+XC808552 - Hume's Leaf Warbler - Phylloscopus humei humei_018_021.wav,Golden-winged Warbler,0.1386,,,-1
+XC808552 - Hume's Leaf Warbler - Phylloscopus humei humei_024_027.wav,Hume's Warbler,0.939,,,-1
+XC808552 - Hume's Leaf Warbler - Phylloscopus humei humei_030_033.wav,Hume's Warbler,0.966,,,-1
+XC811534 - Hume's Leaf Warbler - Phylloscopus humei humei_000_003.wav,Hume's Warbler,0.2566,,,0
+XC811534 - Hume's Leaf Warbler - Phylloscopus humei humei_003_006.wav,Redwing,0.4643,,,0
+XC811534 - Hume's Leaf Warbler - Phylloscopus humei humei_003_006.wav,Olive-backed Pipit,0.1434,,,0
+XC811534 - Hume's Leaf Warbler - Phylloscopus humei humei_009_012.wav,Common Rosefinch,0.9286,,,-1
+XC811534 - Hume's Leaf Warbler - Phylloscopus humei humei_015_018.wav,Common Rosefinch,0.2574,,,0
+XC811534 - Hume's Leaf Warbler - Phylloscopus humei humei_018_021.wav,Hume's Warbler,0.3706,,,0
+XC811534 - Hume's Leaf Warbler - Phylloscopus humei humei_024_027.wav,Japanese Tit,0.1541,,,0
+XC811534 - Hume's Leaf Warbler - Phylloscopus humei humei_027_030.wav,Hume's Warbler,0.5117,,,-1
+XC811534 - Hume's Leaf Warbler - Phylloscopus humei humei_027_030.wav,Himalayan Bluetail,0.1767,,,-1
+XC811534 - Hume's Leaf Warbler - Phylloscopus humei humei_027_030.wav,Chestnut Thrush,0.1162,,,-1
+XC820841 - Hume's Leaf Warbler - Phylloscopus humei humei_000_003.wav,Hume's Warbler,0.8341,,,0
+XC820841 - Hume's Leaf Warbler - Phylloscopus humei humei_006_009.wav,Hume's Warbler,0.9552,,,0
+XC820841 - Hume's Leaf Warbler - Phylloscopus humei humei_006_009.wav,White Wagtail,0.1861,,,0
+XC820841 - Hume's Leaf Warbler - Phylloscopus humei humei_009_012.wav,Hume's Warbler,0.5377,,,0
+XC820841 - Hume's Leaf Warbler - Phylloscopus humei humei_009_012.wav,Redwing,0.179,,,0
+XC820841 - Hume's Leaf Warbler - Phylloscopus humei humei_012_015.wav,Asian Brown Flycatcher,0.1979,,,0
+XC820841 - Hume's Leaf Warbler - Phylloscopus humei humei_012_015.wav,Two-barred Warbler,0.1899,,,0
+XC820841 - Hume's Leaf Warbler - Phylloscopus humei humei_015_018.wav,Hume's Warbler,0.8991,,,0
+XC820841 - Hume's Leaf Warbler - Phylloscopus humei humei_021_024.wav,Hume's Warbler,0.416,,,0
+XC820841 - Hume's Leaf Warbler - Phylloscopus humei humei_024_027.wav,Two-barred Warbler,0.2782,,,0
+XC820841 - Hume's Leaf Warbler - Phylloscopus humei humei_024_027.wav,Golden-winged Warbler,0.1309,,,0
+XC820841 - Hume's Leaf Warbler - Phylloscopus humei humei_024_027.wav,Chestnut-sided Warbler,0.1103,,,0
+XC820841 - Hume's Leaf Warbler - Phylloscopus humei humei_027_030.wav,Hume's Warbler,0.9305,,,0
+XC820841 - Hume's Leaf Warbler - Phylloscopus humei humei_030_033.wav,Two-barred Warbler,0.1131,,,0
+XC820841 - Hume's Leaf Warbler - Phylloscopus humei humei_033_036.wav,Hume's Warbler,0.9274,,,0
+XC820841 - Hume's Leaf Warbler - Phylloscopus humei humei_039_042.wav,Hume's Warbler,0.5165,,,0
+XC844129 - Hume's Leaf Warbler - Phylloscopus humei humei_000_003.wav,Hume's Warbler,0.4013,,,-1
+XC844129 - Hume's Leaf Warbler - Phylloscopus humei humei_003_006.wav,Hume's Warbler,0.8013,,,-1
+XC844129 - Hume's Leaf Warbler - Phylloscopus humei humei_006_009.wav,Gray Treepie,0.5123,,,-1
+XC844129 - Hume's Leaf Warbler - Phylloscopus humei humei_006_009.wav,Hume's Warbler,0.1598,,,-1
+XC844130 - Hume's Leaf Warbler - Phylloscopus humei humei_000_003.wav,Hume's Warbler,0.9287,,,-1
+XC844130 - Hume's Leaf Warbler - Phylloscopus humei humei_003_006.wav,Hume's Warbler,0.628,,,-1
+XC844130 - Hume's Leaf Warbler - Phylloscopus humei humei_006_009.wav,Hume's Warbler,0.878,,,-1
+XC844130 - Hume's Leaf Warbler - Phylloscopus humei humei_009_012.wav,Hume's Warbler,0.6025,,,-1
+XC844130 - Hume's Leaf Warbler - Phylloscopus humei humei_012_015.wav,Gray Treepie,0.5955,,,-1
+XC93326 - Hume's Leaf Warbler - Phylloscopus humei humei_000_003.wav,Common Chiffchaff,0.2516,,,0
+XC93326 - Hume's Leaf Warbler - Phylloscopus humei humei_000_003.wav,Brown Treecreeper,0.2027,,,0
+XC93326 - Hume's Leaf Warbler - Phylloscopus humei humei_003_006.wav,Hume's Warbler,0.9934,,,0
+XC93326 - Hume's Leaf Warbler - Phylloscopus humei humei_006_009.wav,Hume's Warbler,0.9788,,,0
+XC93471 - Hume's Leaf Warbler - Phylloscopus humei humei_000_003.wav,Winter Wren,0.4197,,,0
+XC93471 - Hume's Leaf Warbler - Phylloscopus humei humei_000_003.wav,Eurasian Wren,0.155,,,0
+XC93471 - Hume's Leaf Warbler - Phylloscopus humei humei_003_006.wav,Hume's Warbler,0.9786,,,0
+XC93471 - Hume's Leaf Warbler - Phylloscopus humei humei_006_009.wav,Brown Treecreeper,0.2331,,,0
+XC93471 - Hume's Leaf Warbler - Phylloscopus humei humei_009_012.wav,Hume's Warbler,0.2263,,,0
+XC93472 - Hume's Leaf Warbler - Phylloscopus humei humei_000_003.wav,Hume's Warbler,0.9901,,,0
+XC93472 - Hume's Leaf Warbler - Phylloscopus humei humei_003_006.wav,Hume's Warbler,0.9861,,,0
+XC93472 - Hume's Leaf Warbler - Phylloscopus humei humei_009_012.wav,European Robin,0.1511,,,-1
+XC945940 - Hume's Leaf Warbler - Phylloscopus humei humei_000_003.wav,Hume's Warbler,0.9956,,,-1
+XC945940 - Hume's Leaf Warbler - Phylloscopus humei humei_003_006.wav,Hume's Warbler,0.9925,,,-1
+XC945940 - Hume's Leaf Warbler - Phylloscopus humei humei_006_009.wav,Hume's Warbler,0.9867,,,0
+XC945940 - Hume's Leaf Warbler - Phylloscopus humei humei_009_012.wav,Hume's Warbler,0.9915,,,-1
+XC945940 - Hume's Leaf Warbler - Phylloscopus humei humei_012_015.wav,Hume's Warbler,0.9691,,,-1
+XC945940 - Hume's Leaf Warbler - Phylloscopus humei humei_015_018.wav,Hume's Warbler,0.9983,,,-1
+XC945940 - Hume's Leaf Warbler - Phylloscopus humei humei_018_021.wav,Hume's Warbler,0.9851,,,-1
+XC949804 - Hume's Leaf Warbler - Phylloscopus humei humei_000_003.wav,Hume's Warbler,0.9935,,,-1
+XC949804 - Hume's Leaf Warbler - Phylloscopus humei humei_006_009.wav,Hume's Warbler,0.9969,,,-1
+XC949804 - Hume's Leaf Warbler - Phylloscopus humei humei_009_012.wav,Hume's Warbler,0.9931,,,-1
+XC949804 - Hume's Leaf Warbler - Phylloscopus humei humei_012_015.wav,Hume's Warbler,0.9941,,,-1
+XC949804 - Hume's Leaf Warbler - Phylloscopus humei humei_015_018.wav,Hume's Warbler,0.9841,,,-1
